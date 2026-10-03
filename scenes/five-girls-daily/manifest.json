@@ -1,0 +1,93 @@
+{
+  "repository": "jiangpengqin1-creator/forest-survival-assets",
+  "images": [
+    {
+      "number": 1,
+      "title": "牵手奔向音乐节舞台",
+      "filename": "01_牵手奔向音乐节舞台.png",
+      "path": "scenes/five-girls-daily/01-music-festival-0c16877102.png",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/scenes/five-girls-daily/01-music-festival-0c16877102.png",
+      "sha256": "0c1687710239c40adac7cfbdc906838dbb1d339db15ff0b75e6d1a33c797987a",
+      "bytes": 2552673,
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "number": 2,
+      "title": "黄昏唱片店里的温柔邂逅",
+      "filename": "02_黄昏唱片店里的温柔邂逅.png",
+      "path": "scenes/five-girls-daily/02-record-store-37ad3bf366.png",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/scenes/five-girls-daily/02-record-store-37ad3bf366.png",
+      "sha256": "37ad3bf36669d5807aaa5dec335929712513d4adad8c03c978723e1000976477",
+      "bytes": 2364430,
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "number": 3,
+      "title": "春日市集里的文具邂逅",
+      "filename": "03_春日市集里的文具邂逅.png",
+      "path": "scenes/five-girls-daily/03-spring-stationery-market-82c3af391f.png",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/scenes/five-girls-daily/03-spring-stationery-market-82c3af391f.png",
+      "sha256": "82c3af391fd8e6ca274b7e3493c8dbbbedf096eae039b2b327029be78233f057",
+      "bytes": 2653835,
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "number": 4,
+      "title": "星穹下的观星约定",
+      "filename": "04_星穹下的观星约定.png",
+      "path": "scenes/five-girls-daily/04-stargazing-003e738a17.png",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/scenes/five-girls-daily/04-stargazing-003e738a17.png",
+      "sha256": "003e738a17be8d834e8636aa4beb7c80ece9fdd9625dc4d34736a2d78c4ec343",
+      "bytes": 2387334,
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "number": 5,
+      "title": "雪夜圣诞集市的温柔相依",
+      "filename": "05_雪夜圣诞集市的温柔相依.png",
+      "path": "scenes/five-girls-daily/05-christmas-market-f9df1c9d12.png",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/scenes/five-girls-daily/05-christmas-market-f9df1c9d12.png",
+      "sha256": "f9df1c9d126936f481dc5b60d83bf3bc1265baf7c22c21d1d8adf2edd8e2063b",
+      "bytes": 2708043,
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "number": 6,
+      "title": "春日花语手作市集",
+      "filename": "06_春日花语手作市集.png",
+      "path": "scenes/five-girls-daily/06-spring-craft-market-c459fbee72.png",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/scenes/five-girls-daily/06-spring-craft-market-c459fbee72.png",
+      "sha256": "c459fbee72f6ea8aee045cb7c7729314e44878f3fe40115a274b560449839e93",
+      "bytes": 2772812,
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "number": 7,
+      "title": "温馨屋顶动漫电影之夜",
+      "filename": "07_温馨屋顶动漫电影之夜.png",
+      "path": "scenes/five-girls-daily/07-rooftop-movie-night-35cd2cb64e.png",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/scenes/five-girls-daily/07-rooftop-movie-night-35cd2cb64e.png",
+      "sha256": "35cd2cb64e95e74a417c9b0863d759fde57d0bc8023828218198b9e6a79480d9",
+      "bytes": 2666097,
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "number": 8,
+      "title": "湖畔金色暮光茶会",
+      "filename": "08_湖畔金色暮光茶会.png",
+      "path": "scenes/five-girls-daily/08-lakeside-tea-party-d6ba17ee2e.png",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/scenes/five-girls-daily/08-lakeside-tea-party-d6ba17ee2e.png",
+      "sha256": "d6ba17ee2e1b0ca19224d8f594bbb3c82c0e10d2b9a84126d5d4b288bcc64a95",
+      "bytes": 2932901,
+      "width": 1122,
+      "height": 1402
+    }
+  ]
+}
