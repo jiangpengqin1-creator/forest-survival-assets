@@ -1,0 +1,535 @@
+{
+  "version": "2026-10-03",
+  "base_url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/",
+  "characters": {
+    "苏洛果": {
+      "name": "苏洛果",
+      "slug": "su-luoguo",
+      "images": [
+        {
+          "title": "人物设定图",
+          "path": "characters/su-luoguo/portrait-39bad1b3e5.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/su-luoguo/portrait-39bad1b3e5.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "烘焙教室 · 奶油挤歪了",
+          "path": "characters/su-luoguo/daily-01-d68e208f5f.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/su-luoguo/daily-01-d68e208f5f.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "地铁车厢 · 站着偷偷打瞌睡",
+          "path": "characters/su-luoguo/daily-02-b8fc9221ae.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/su-luoguo/daily-02-b8fc9221ae.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "花鸟市场 · 鹦鹉突然落到肩膀",
+          "path": "characters/su-luoguo/daily-03-5d085aa834.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/su-luoguo/daily-03-5d085aa834.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "手作饰品店 · 串珠掉了一地",
+          "path": "characters/su-luoguo/daily-04-d5619a5689.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/su-luoguo/daily-04-d5619a5689.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "保龄球馆 · 球慢悠悠滚偏了",
+          "path": "characters/su-luoguo/daily-05-bc6df75a41.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/su-luoguo/daily-05-bc6df75a41.webp",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "title": "古镇小巷 · 风把帽子吹跑",
+          "path": "characters/su-luoguo/daily-06-3754e5c4b3.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/su-luoguo/daily-06-3754e5c4b3.webp",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "title": "电影院散场 · 偷偷擦眼泪",
+          "path": "characters/su-luoguo/daily-07-ae1aa2f49b.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/su-luoguo/daily-07-ae1aa2f49b.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "室内攀岩馆 · 卡在半路",
+          "path": "characters/su-luoguo/daily-08-3237cb5ac0.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/su-luoguo/daily-08-3237cb5ac0.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "自助洗衣房 · 衣服差点掉光",
+          "path": "characters/su-luoguo/daily-09-d94dcb7344.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/su-luoguo/daily-09-d94dcb7344.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "清晨热气球 · 第一次看到云海",
+          "path": "characters/su-luoguo/daily-10-1131a3c80d.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/su-luoguo/daily-10-1131a3c80d.webp",
+          "width": 1536,
+          "height": 1024
+        }
+      ]
+    },
+    "林舒漾": {
+      "name": "林舒漾",
+      "slug": "lin-shuyang",
+      "images": [
+        {
+          "title": "人物设定图",
+          "path": "characters/lin-shuyang/portrait-f2c36bb996.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/lin-shuyang/portrait-f2c36bb996.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "校园林荫道 · 抱着资料追赶同学",
+          "path": "characters/lin-shuyang/daily-01-a9c8d16a6f.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/lin-shuyang/daily-01-a9c8d16a6f.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "奶茶店 · 第一口被冰得缩脖子",
+          "path": "characters/lin-shuyang/daily-02-f71adaeb99.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/lin-shuyang/daily-02-f71adaeb99.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "夜晚便利店 · 蹲着挑泡面",
+          "path": "characters/lin-shuyang/daily-03-aebbf310bf.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/lin-shuyang/daily-03-aebbf310bf.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "周末游乐园 · 被朋友突然抓拍",
+          "path": "characters/lin-shuyang/daily-04-d3489b9d8c.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/lin-shuyang/daily-04-d3489b9d8c.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "阳台浇花 · 已保留原图",
+          "path": "characters/lin-shuyang/daily-05-38488e028b.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/lin-shuyang/daily-05-38488e028b.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "春日湖畔写生",
+          "path": "characters/lin-shuyang/daily-06-5c8858356f.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/lin-shuyang/daily-06-5c8858356f.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "午后与橘猫嬉戏",
+          "path": "characters/lin-shuyang/daily-07-f2523f909c.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/lin-shuyang/daily-07-f2523f909c.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "服装店挑选裙子",
+          "path": "characters/lin-shuyang/daily-08-c0fdd68aba.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/lin-shuyang/daily-08-c0fdd68aba.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "海风栈道取景时刻",
+          "path": "characters/lin-shuyang/daily-09-a1905f5597.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/lin-shuyang/daily-09-a1905f5597.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "阳台上细心照料盆栽的女生",
+          "path": "characters/lin-shuyang/daily-10-7ae4b71639.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/lin-shuyang/daily-10-7ae4b71639.webp",
+          "width": 1024,
+          "height": 1536
+        }
+      ]
+    },
+    "季星晚": {
+      "name": "季星晚",
+      "slug": "ji-xingwan",
+      "images": [
+        {
+          "title": "人物设定图",
+          "path": "characters/ji-xingwan/portrait-50669586f7.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/ji-xingwan/portrait-50669586f7.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "清晨宿舍 · 刚睡醒扎头发",
+          "path": "characters/ji-xingwan/daily-01-926e1a6641.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/ji-xingwan/daily-01-926e1a6641.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "下午图书馆 · 学习间隙休息",
+          "path": "characters/ji-xingwan/daily-02-75ca4ab488.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/ji-xingwan/daily-02-75ca4ab488.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "夜晚宿舍 · 吹头发",
+          "path": "characters/ji-xingwan/daily-03-be50884c3c.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/ji-xingwan/daily-03-be50884c3c.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "周末咖啡店 · 被朋友逗笑的瞬间",
+          "path": "characters/ji-xingwan/daily-04-cb48ee4240.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/ji-xingwan/daily-04-cb48ee4240.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "图书馆取书 · 已保留原图",
+          "path": "characters/ji-xingwan/daily-05-bde4941e0f.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/ji-xingwan/daily-05-bde4941e0f.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "咖啡馆窗边静读",
+          "path": "characters/ji-xingwan/daily-06-2d387d33c1.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/ji-xingwan/daily-06-2d387d33c1.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "秋风中的校园仰望",
+          "path": "characters/ji-xingwan/daily-07-5646c2dbdc.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/ji-xingwan/daily-07-5646c2dbdc.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "晨光厨房煎早餐",
+          "path": "characters/ji-xingwan/daily-08-73f54fe1a3.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/ji-xingwan/daily-08-73f54fe1a3.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "窗边夜色小憩",
+          "path": "characters/ji-xingwan/daily-09-b7c2b5d9ec.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/ji-xingwan/daily-09-b7c2b5d9ec.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "雨中花店前的侧身女子",
+          "path": "characters/ji-xingwan/daily-10-187807d82b.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/ji-xingwan/daily-10-187807d82b.webp",
+          "width": 1024,
+          "height": 1536
+        }
+      ]
+    },
+    "夏允禾": {
+      "name": "夏允禾",
+      "slug": "xia-yunhe",
+      "images": [
+        {
+          "title": "人物设定图",
+          "path": "characters/xia-yunhe/portrait-3b8035d158.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/xia-yunhe/portrait-3b8035d158.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "早晨宿舍 · 睡迷糊找发圈",
+          "path": "characters/xia-yunhe/daily-01-477b0616f7.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/xia-yunhe/daily-01-477b0616f7.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "上午教室 · 被老师突然点名",
+          "path": "characters/xia-yunhe/daily-02-02f6323652.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/xia-yunhe/daily-02-02f6323652.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "中午食堂 · 偷吃朋友盘里的薯条",
+          "path": "characters/xia-yunhe/daily-03-03b69e3141.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/xia-yunhe/daily-03-03b69e3141.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "下午体育课后 · 自动贩卖机买水",
+          "path": "characters/xia-yunhe/daily-04-ef04191db7.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/xia-yunhe/daily-04-ef04191db7.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "傍晚超市 · 认真挑草莓",
+          "path": "characters/xia-yunhe/daily-05-74f6c6cb4f.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/xia-yunhe/daily-05-74f6c6cb4f.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "书店 · 发现自己喜欢的新书",
+          "path": "characters/xia-yunhe/daily-06-02cc15b64f.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/xia-yunhe/daily-06-02cc15b64f.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "夜晚厨房 · 第一次煎鸡蛋失败",
+          "path": "characters/xia-yunhe/daily-07-267bcb73e1.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/xia-yunhe/daily-07-267bcb73e1.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "周末海边 · 风太大头发糊脸",
+          "path": "characters/xia-yunhe/daily-08-34fcfae741.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/xia-yunhe/daily-08-34fcfae741.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "夜晚游戏 · 赢了以后偷偷得意",
+          "path": "characters/xia-yunhe/daily-09-6208550980.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/xia-yunhe/daily-09-6208550980.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "傍晚花店 · 挑选小雏菊",
+          "path": "characters/xia-yunhe/daily-10-80065eb61c.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/xia-yunhe/daily-10-80065eb61c.webp",
+          "width": 1024,
+          "height": 1536
+        }
+      ]
+    },
+    "夏允柠": {
+      "name": "夏允柠",
+      "slug": "xia-yunning",
+      "images": [
+        {
+          "title": "人物设定图",
+          "path": "characters/xia-yunning/portrait-c336d7a1fe.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/xia-yunning/portrait-c336d7a1fe.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "陶艺工作室 · 脸上蹭到陶泥",
+          "path": "characters/xia-yunning/daily-01-b5c54eba1b.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/xia-yunning/daily-01-b5c54eba1b.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "电玩城 · 抓娃娃差一点成功",
+          "path": "characters/xia-yunning/daily-02-74343fe5cb.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/xia-yunning/daily-02-74343fe5cb.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "宠物咖啡馆 · 被猫踩到腿上",
+          "path": "characters/xia-yunning/daily-03-c774796763.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/xia-yunning/daily-03-c774796763.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "美术馆 · 看不懂抽象画",
+          "path": "characters/xia-yunning/daily-04-edd78b1b35.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/xia-yunning/daily-04-edd78b1b35.webp",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "title": "台球厅 · 进球后的挑眉",
+          "path": "characters/xia-yunning/daily-05-aef6ce58ae.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/xia-yunning/daily-05-aef6ce58ae.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "花店 · 偷偷闻刚包好的花",
+          "path": "characters/xia-yunning/daily-06-722032575c.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/xia-yunning/daily-06-722032575c.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "KTV · 唱到高音突然破音",
+          "path": "characters/xia-yunning/daily-07-6986cd6c23.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/xia-yunning/daily-07-6986cd6c23.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "水族馆 · 鳐鱼从头顶游过",
+          "path": "characters/xia-yunning/daily-08-740020c371.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/xia-yunning/daily-08-740020c371.webp",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "title": "夜市 · 吃到特别辣的烤串",
+          "path": "characters/xia-yunning/daily-09-f63ae64c05.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/xia-yunning/daily-09-f63ae64c05.webp",
+          "width": 1024,
+          "height": 1536
+        },
+        {
+          "title": "天台看流星 · 安静许愿",
+          "path": "characters/xia-yunning/daily-10-a5a01ed3d6.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/characters/xia-yunning/daily-10-a5a01ed3d6.webp",
+          "width": 1536,
+          "height": 1024
+        }
+      ]
+    }
+  },
+  "maps": {
+    "camp-v1.png": {
+      "title": "camp-v1",
+      "path": "maps/camp-v1-e78aec0894.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/maps/camp-v1-e78aec0894.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    "camp-v2.png": {
+      "title": "camp-v2",
+      "path": "maps/camp-v2-de08ee32f9.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/maps/camp-v2-de08ee32f9.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    "canyon-v2.png": {
+      "title": "canyon-v2",
+      "path": "maps/canyon-v2-499dbd5c50.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/maps/canyon-v2-499dbd5c50.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    "cliff-v2.png": {
+      "title": "cliff-v2",
+      "path": "maps/cliff-v2-a1d7aa586c.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/maps/cliff-v2-a1d7aa586c.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    "coast-v2.png": {
+      "title": "coast-v2",
+      "path": "maps/coast-v2-f26b50ad45.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/maps/coast-v2-f26b50ad45.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    "death-v2.png": {
+      "title": "death-v2",
+      "path": "maps/death-v2-1d886eb4d5.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/maps/death-v2-1d886eb4d5.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    "forest-v2.png": {
+      "title": "forest-v2",
+      "path": "maps/forest-v2-e587bb6642.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/maps/forest-v2-e587bb6642.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    "islands-v2.png": {
+      "title": "islands-v2",
+      "path": "maps/islands-v2-72e9e531d3.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/maps/islands-v2-72e9e531d3.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    "jungle-v2.png": {
+      "title": "jungle-v2",
+      "path": "maps/jungle-v2-b0dfcebb05.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/maps/jungle-v2-b0dfcebb05.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    "plain-v2.png": {
+      "title": "plain-v2",
+      "path": "maps/plain-v2-3fc09de27f.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/maps/plain-v2-3fc09de27f.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    "snow-v2.png": {
+      "title": "snow-v2",
+      "path": "maps/snow-v2-75b1130969.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/maps/snow-v2-75b1130969.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    "swamp-v2.png": {
+      "title": "swamp-v2",
+      "path": "maps/swamp-v2-8ff775d896.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/maps/swamp-v2-8ff775d896.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    "valley-v2.png": {
+      "title": "valley-v2",
+      "path": "maps/valley-v2-caf1ca5dde.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/maps/valley-v2-caf1ca5dde.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    "volcano-v2.png": {
+      "title": "volcano-v2",
+      "path": "maps/volcano-v2-46acddf3ae.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/maps/volcano-v2-46acddf3ae.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    "wetland-v2.png": {
+      "title": "wetland-v2",
+      "path": "maps/wetland-v2-1e9e6824fa.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/maps/wetland-v2-1e9e6824fa.webp",
+      "width": 1536,
+      "height": 1024
+    }
+  },
+  "world_map": {
+    "title": "迷雾星球总图",
+    "path": "maps/world-9162c4afb9.webp",
+    "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/maps/world-9162c4afb9.webp",
+    "width": 1536,
+    "height": 780
+  }
+}
