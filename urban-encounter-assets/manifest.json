@@ -12012,13 +12012,13 @@
       "role": "犬冢夏美",
       "outfit": "home",
       "state": "hypnotized",
-      "path": "characters/role-002/outfits/home/hypnotized-32e7a4058126.webp",
-      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/characters/role-002/outfits/home/hypnotized-32e7a4058126.webp",
+      "path": "characters/role-002/outfits/home/hypnotized-8d6036b289d5.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/characters/role-002/outfits/home/hypnotized-8d6036b289d5.webp",
       "width": 1024,
       "height": 1536,
       "hasAlpha": true,
-      "bytes": 245856,
-      "sha256": "f165895da339c5721f589dd1750b44ca85f844fba46af6ac2e27dc7ccae6d22b"
+      "bytes": 244900,
+      "sha256": "c7279d5380b8407f60b57f339e5b0ff7041abf121de52fea3b5326f7f8608723"
     },
     "role-002/weekend/hypnotized": {
       "id": "role-002/weekend/hypnotized",
