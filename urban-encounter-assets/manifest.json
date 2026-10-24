@@ -4537,7 +4537,7 @@
             "原设场合"
           ],
           "normal": "role-074/original/normal",
-          "hypnotized": null
+          "hypnotized": "role-074/original/hypnotized"
         },
         {
           "id": "daily",
@@ -4550,7 +4550,7 @@
             "白天居家"
           ],
           "normal": "role-074/daily/normal",
-          "hypnotized": null
+          "hypnotized": "role-074/daily/hypnotized"
         },
         {
           "id": "home",
@@ -4562,7 +4562,7 @@
             "起床后"
           ],
           "normal": "role-074/home/normal",
-          "hypnotized": null
+          "hypnotized": "role-074/home/hypnotized"
         },
         {
           "id": "weekend",
@@ -4575,7 +4575,7 @@
             "咖啡馆"
           ],
           "normal": "role-074/weekend/normal",
-          "hypnotized": null
+          "hypnotized": "role-074/weekend/hypnotized"
         },
         {
           "id": "activity",
@@ -4585,7 +4585,7 @@
             "对应职业地点／专项活动地点"
           ],
           "normal": "role-074/activity/normal",
-          "hypnotized": null
+          "hypnotized": "role-074/activity/hypnotized"
         }
       ]
     },
@@ -4605,7 +4605,7 @@
             "原设场合"
           ],
           "normal": "role-075/original/normal",
-          "hypnotized": null
+          "hypnotized": "role-075/original/hypnotized"
         },
         {
           "id": "daily",
@@ -4618,7 +4618,7 @@
             "白天居家"
           ],
           "normal": "role-075/daily/normal",
-          "hypnotized": null
+          "hypnotized": "role-075/daily/hypnotized"
         },
         {
           "id": "home",
@@ -4630,7 +4630,7 @@
             "起床后"
           ],
           "normal": "role-075/home/normal",
-          "hypnotized": null
+          "hypnotized": "role-075/home/hypnotized"
         },
         {
           "id": "weekend",
@@ -4643,7 +4643,7 @@
             "咖啡馆"
           ],
           "normal": "role-075/weekend/normal",
-          "hypnotized": null
+          "hypnotized": "role-075/weekend/hypnotized"
         },
         {
           "id": "activity",
@@ -4653,7 +4653,7 @@
             "对应职业地点／专项活动地点"
           ],
           "normal": "role-075/activity/normal",
-          "hypnotized": null
+          "hypnotized": "role-075/activity/hypnotized"
         }
       ]
     },
@@ -4673,7 +4673,7 @@
             "原设场合"
           ],
           "normal": "role-076/original/normal",
-          "hypnotized": null
+          "hypnotized": "role-076/original/hypnotized"
         },
         {
           "id": "daily",
@@ -4686,7 +4686,7 @@
             "白天居家"
           ],
           "normal": "role-076/daily/normal",
-          "hypnotized": null
+          "hypnotized": "role-076/daily/hypnotized"
         },
         {
           "id": "home",
@@ -4698,7 +4698,7 @@
             "起床后"
           ],
           "normal": "role-076/home/normal",
-          "hypnotized": null
+          "hypnotized": "role-076/home/hypnotized"
         },
         {
           "id": "weekend",
@@ -4711,7 +4711,7 @@
             "咖啡馆"
           ],
           "normal": "role-076/weekend/normal",
-          "hypnotized": null
+          "hypnotized": "role-076/weekend/hypnotized"
         },
         {
           "id": "activity",
@@ -4721,7 +4721,7 @@
             "对应职业地点／专项活动地点"
           ],
           "normal": "role-076/activity/normal",
-          "hypnotized": null
+          "hypnotized": "role-076/activity/hypnotized"
         }
       ]
     },
@@ -4741,7 +4741,7 @@
             "原设场合"
           ],
           "normal": "role-077/original/normal",
-          "hypnotized": null
+          "hypnotized": "role-077/original/hypnotized"
         },
         {
           "id": "daily",
@@ -4754,7 +4754,7 @@
             "白天居家"
           ],
           "normal": "role-077/daily/normal",
-          "hypnotized": null
+          "hypnotized": "role-077/daily/hypnotized"
         },
         {
           "id": "home",
@@ -4766,7 +4766,7 @@
             "起床后"
           ],
           "normal": "role-077/home/normal",
-          "hypnotized": null
+          "hypnotized": "role-077/home/hypnotized"
         },
         {
           "id": "weekend",
@@ -4779,7 +4779,7 @@
             "咖啡馆"
           ],
           "normal": "role-077/weekend/normal",
-          "hypnotized": null
+          "hypnotized": "role-077/weekend/hypnotized"
         },
         {
           "id": "activity",
@@ -4789,7 +4789,7 @@
             "对应职业地点／专项活动地点"
           ],
           "normal": "role-077/activity/normal",
-          "hypnotized": null
+          "hypnotized": "role-077/activity/hypnotized"
         }
       ]
     }
@@ -15972,6 +15972,266 @@
       "hasAlpha": true,
       "bytes": 148812,
       "sha256": "844003467c2f98b48669710952cc69b3b7fedc2cb4bb435e6d2ac51d2c980d83"
+    },
+    "role-074/original/hypnotized": {
+      "id": "role-074/original/hypnotized",
+      "role": "武见妙",
+      "outfit": "original",
+      "state": "hypnotized",
+      "path": "characters/role-074/outfits/original/hypnotized-848f9fbd350f.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/characters/role-074/outfits/original/hypnotized-848f9fbd350f.webp",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "bytes": 197768,
+      "sha256": "70de3dba1c745af723165aba639b9450bbf952e6a668b7897dacb1a83bfdd88d"
+    },
+    "role-074/daily/hypnotized": {
+      "id": "role-074/daily/hypnotized",
+      "role": "武见妙",
+      "outfit": "daily",
+      "state": "hypnotized",
+      "path": "characters/role-074/outfits/daily/hypnotized-6427568f4671.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/characters/role-074/outfits/daily/hypnotized-6427568f4671.webp",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "bytes": 132198,
+      "sha256": "7fc8c91f22a8c241ee778579c4fdec15a050fb7f5e67e8a4782e186d0248bef3"
+    },
+    "role-074/home/hypnotized": {
+      "id": "role-074/home/hypnotized",
+      "role": "武见妙",
+      "outfit": "home",
+      "state": "hypnotized",
+      "path": "characters/role-074/outfits/home/hypnotized-53e2d88781f6.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/characters/role-074/outfits/home/hypnotized-53e2d88781f6.webp",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "bytes": 135232,
+      "sha256": "7141c3caa634b069a367826455942f45ecf5b5737f901481a161051d651760bb"
+    },
+    "role-074/weekend/hypnotized": {
+      "id": "role-074/weekend/hypnotized",
+      "role": "武见妙",
+      "outfit": "weekend",
+      "state": "hypnotized",
+      "path": "characters/role-074/outfits/weekend/hypnotized-caa50b7d18d2.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/characters/role-074/outfits/weekend/hypnotized-caa50b7d18d2.webp",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "bytes": 134432,
+      "sha256": "33ff143f5e26434ef3485624ec2f9f12cc069a50ae1411f56a956bc348809db3"
+    },
+    "role-074/activity/hypnotized": {
+      "id": "role-074/activity/hypnotized",
+      "role": "武见妙",
+      "outfit": "activity",
+      "state": "hypnotized",
+      "path": "characters/role-074/outfits/activity/hypnotized-6c46496d727c.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/characters/role-074/outfits/activity/hypnotized-6c46496d727c.webp",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "bytes": 139402,
+      "sha256": "b33d1a21dadf942be965805762378ff8fada85e920d33b411ee29a5ee235e8f3"
+    },
+    "role-075/original/hypnotized": {
+      "id": "role-075/original/hypnotized",
+      "role": "东乡一二三",
+      "outfit": "original",
+      "state": "hypnotized",
+      "path": "characters/role-075/outfits/original/hypnotized-e7b31927103c.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/characters/role-075/outfits/original/hypnotized-e7b31927103c.webp",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "bytes": 272588,
+      "sha256": "4477dc6c31b7a8af3db3298f5f83ac69fb92545b57f369f3d870493f56768ff3"
+    },
+    "role-075/daily/hypnotized": {
+      "id": "role-075/daily/hypnotized",
+      "role": "东乡一二三",
+      "outfit": "daily",
+      "state": "hypnotized",
+      "path": "characters/role-075/outfits/daily/hypnotized-f2fb10e3d96f.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/characters/role-075/outfits/daily/hypnotized-f2fb10e3d96f.webp",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "bytes": 173974,
+      "sha256": "1a7ac1efc911345a1b8256e7e7be90bff2d79a07cbcc0dfbe7a70853518fd945"
+    },
+    "role-075/home/hypnotized": {
+      "id": "role-075/home/hypnotized",
+      "role": "东乡一二三",
+      "outfit": "home",
+      "state": "hypnotized",
+      "path": "characters/role-075/outfits/home/hypnotized-bbca5b4c8b3b.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/characters/role-075/outfits/home/hypnotized-bbca5b4c8b3b.webp",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "bytes": 183318,
+      "sha256": "668cd55cac7cdad9c61d310911d8044315c0ffac1f2fdbb325f51e65f8f61d57"
+    },
+    "role-075/weekend/hypnotized": {
+      "id": "role-075/weekend/hypnotized",
+      "role": "东乡一二三",
+      "outfit": "weekend",
+      "state": "hypnotized",
+      "path": "characters/role-075/outfits/weekend/hypnotized-56c4654b83ef.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/characters/role-075/outfits/weekend/hypnotized-56c4654b83ef.webp",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "bytes": 166776,
+      "sha256": "3aa1605c9608723cd175120f955b7b58b607fb1063a8e8cec77afb8cb001bb0e"
+    },
+    "role-075/activity/hypnotized": {
+      "id": "role-075/activity/hypnotized",
+      "role": "东乡一二三",
+      "outfit": "activity",
+      "state": "hypnotized",
+      "path": "characters/role-075/outfits/activity/hypnotized-4018cdb60dcd.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/characters/role-075/outfits/activity/hypnotized-4018cdb60dcd.webp",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "bytes": 165078,
+      "sha256": "32ce3842927dc754a5fad0c65c0fd4e8a2d379a9253444a746e6f6fa22a3a05a"
+    },
+    "role-076/original/hypnotized": {
+      "id": "role-076/original/hypnotized",
+      "role": "御船千早",
+      "outfit": "original",
+      "state": "hypnotized",
+      "path": "characters/role-076/outfits/original/hypnotized-e7be29491b73.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/characters/role-076/outfits/original/hypnotized-e7be29491b73.webp",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "bytes": 330566,
+      "sha256": "a69026bcae9c8bf8f2670dd89eeea8c3fa73106ddba83a07542f967f01204495"
+    },
+    "role-076/daily/hypnotized": {
+      "id": "role-076/daily/hypnotized",
+      "role": "御船千早",
+      "outfit": "daily",
+      "state": "hypnotized",
+      "path": "characters/role-076/outfits/daily/hypnotized-f8f238c7d349.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/characters/role-076/outfits/daily/hypnotized-f8f238c7d349.webp",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "bytes": 200410,
+      "sha256": "b86a6f16b5a5ab7f5ea431c3dcb9ec7b2b29f6033adaaba842a6eacea0282741"
+    },
+    "role-076/home/hypnotized": {
+      "id": "role-076/home/hypnotized",
+      "role": "御船千早",
+      "outfit": "home",
+      "state": "hypnotized",
+      "path": "characters/role-076/outfits/home/hypnotized-0a5062eff651.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/characters/role-076/outfits/home/hypnotized-0a5062eff651.webp",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "bytes": 201818,
+      "sha256": "ee4dfb3450c0eb45413671be8e3a45fee1d55e1b031778d648b264f98afcbbcf"
+    },
+    "role-076/weekend/hypnotized": {
+      "id": "role-076/weekend/hypnotized",
+      "role": "御船千早",
+      "outfit": "weekend",
+      "state": "hypnotized",
+      "path": "characters/role-076/outfits/weekend/hypnotized-c64a9ed50532.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/characters/role-076/outfits/weekend/hypnotized-c64a9ed50532.webp",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "bytes": 213338,
+      "sha256": "487b2e3633ae683f77df53c6b6cbf20c5bcad98fe80d24f8f87a4b543f3f9d3b"
+    },
+    "role-076/activity/hypnotized": {
+      "id": "role-076/activity/hypnotized",
+      "role": "御船千早",
+      "outfit": "activity",
+      "state": "hypnotized",
+      "path": "characters/role-076/outfits/activity/hypnotized-ebb322b27179.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/characters/role-076/outfits/activity/hypnotized-ebb322b27179.webp",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "bytes": 197214,
+      "sha256": "5f82a0b47c609c7ae040885627b25e8452cecd0a4edb44cabc1874273d637cbf"
+    },
+    "role-077/original/hypnotized": {
+      "id": "role-077/original/hypnotized",
+      "role": "大宅一子",
+      "outfit": "original",
+      "state": "hypnotized",
+      "path": "characters/role-077/outfits/original/hypnotized-4253ca2925c3.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/characters/role-077/outfits/original/hypnotized-4253ca2925c3.webp",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "bytes": 248562,
+      "sha256": "0a40fd7abd52e7bb0dff3d13e96cfd495bdbd11e527996ba792e8c8b34b9f625"
+    },
+    "role-077/daily/hypnotized": {
+      "id": "role-077/daily/hypnotized",
+      "role": "大宅一子",
+      "outfit": "daily",
+      "state": "hypnotized",
+      "path": "characters/role-077/outfits/daily/hypnotized-49c85562fd3f.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/characters/role-077/outfits/daily/hypnotized-49c85562fd3f.webp",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "bytes": 157122,
+      "sha256": "c7a1bfc17e4ea43c2d8fdcd24f8c51d3642c6e2750aff0ad4a2c101149c62f6a"
+    },
+    "role-077/home/hypnotized": {
+      "id": "role-077/home/hypnotized",
+      "role": "大宅一子",
+      "outfit": "home",
+      "state": "hypnotized",
+      "path": "characters/role-077/outfits/home/hypnotized-35314421eb62.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/characters/role-077/outfits/home/hypnotized-35314421eb62.webp",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "bytes": 127374,
+      "sha256": "fbc562dcab9df9524e486d57957323a3f400a65244b7c249ed598e99723b1b18"
+    },
+    "role-077/weekend/hypnotized": {
+      "id": "role-077/weekend/hypnotized",
+      "role": "大宅一子",
+      "outfit": "weekend",
+      "state": "hypnotized",
+      "path": "characters/role-077/outfits/weekend/hypnotized-772c426ea657.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/characters/role-077/outfits/weekend/hypnotized-772c426ea657.webp",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "bytes": 159340,
+      "sha256": "831f9c23dfde733fac5a2c7e734ac586a5163b6f7abb71d23d12283f5b1c80a1"
+    },
+    "role-077/activity/hypnotized": {
+      "id": "role-077/activity/hypnotized",
+      "role": "大宅一子",
+      "outfit": "activity",
+      "state": "hypnotized",
+      "path": "characters/role-077/outfits/activity/hypnotized-ecf7e6ea5cc3.webp",
+      "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/characters/role-077/outfits/activity/hypnotized-ecf7e6ea5cc3.webp",
+      "width": 1024,
+      "height": 1536,
+      "hasAlpha": true,
+      "bytes": 174406,
+      "sha256": "4219d42d406165db5ac8b10e88074ead30f5a88fea857bc6c8ce802908679f79"
     }
   },
   "selection": {
@@ -15990,8 +16250,8 @@
     "roles": 77,
     "outfits": 340,
     "backgrounds": 44,
-    "files": 858,
-    "hypnotizedReady": 320,
-    "hypnotizedPending": 20
+    "files": 878,
+    "hypnotizedReady": 340,
+    "hypnotizedPending": 0
   }
 }
