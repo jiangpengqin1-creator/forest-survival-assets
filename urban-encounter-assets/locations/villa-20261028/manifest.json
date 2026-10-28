@@ -23,48 +23,6 @@
       "bytes": 2679107
     },
     {
-      "id": "villa-bedroom-player",
-      "name": "我的卧室",
-      "path": "urban-encounter-assets/locations/villa-20261028/villa-bedroom-player.png",
-      "sha256": "41a795d3eea3e28595f3432a062a83379b5c618bdb0d928f613cd55fb59bdb59",
-      "bytes": 2620682
-    },
-    {
-      "id": "villa-bedroom-sister-elder",
-      "name": "姐姐的卧室",
-      "path": "urban-encounter-assets/locations/villa-20261028/villa-bedroom-sister-elder.png",
-      "sha256": "a578a2e8548f25df47eaee616ed9ce73541f21fdd4f3a790e63f32476c629843",
-      "bytes": 2431496
-    },
-    {
-      "id": "villa-bedroom-sister-younger",
-      "name": "妹妹的卧室",
-      "path": "urban-encounter-assets/locations/villa-20261028/villa-bedroom-sister-younger.png",
-      "sha256": "3962a3b81b3561d4ae68b7e09cf71b00e78f50c7829d918e2bc80db9beb19818",
-      "bytes": 2446235
-    },
-    {
-      "id": "villa-bedroom-mother",
-      "name": "妈妈的卧室",
-      "path": "urban-encounter-assets/locations/villa-20261028/villa-bedroom-mother.png",
-      "sha256": "eb2f62db13f166f414e4e912bfc0a75f0a957afb6a6d7d98f8e6fa76d16043e6",
-      "bytes": 2744434
-    },
-    {
-      "id": "villa-bedroom-guest",
-      "name": "客房",
-      "path": "urban-encounter-assets/locations/villa-20261028/villa-bedroom-guest.png",
-      "sha256": "95287cca8baf59476ab41d51215cf8c56b7554d75bd4e5bbc76d258025688630",
-      "bytes": 2697058
-    },
-    {
-      "id": "villa-study",
-      "name": "别墅书房",
-      "path": "urban-encounter-assets/locations/villa-20261028/villa-study.png",
-      "sha256": "b06f920b264bde9fee597a5f40887bcfceafefb3084e45cbee6e4100afc5bfb8",
-      "bytes": 2544276
-    },
-    {
       "id": "villa-bathroom",
       "name": "别墅卫生间",
       "path": "urban-encounter-assets/locations/villa-20261028/villa-bathroom.png",

@@ -1,0 +1,565 @@
+{
+  "version": "2026-10-28.unique-locations",
+  "files": [
+    {
+      "id": "place-17a9b219482e3fbd9102c907",
+      "name": "深雪的家",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-17a9b219482e3fbd9102c907-cae9849fcaa2.webp",
+      "sha256": "eebc029a2eef9f1eb60ec0f343c9da9bbaa99395db760d4f1fb0743707734524",
+      "sourceSha256": "cae9849fcaa2a7b088484a98bed6e7e813e88e142865ba8b40533cbc01f3dfc8",
+      "bytes": 368386
+    },
+    {
+      "id": "place-0fb2b0926ad227c62f3fb038",
+      "name": "夏美的家",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-0fb2b0926ad227c62f3fb038-ee3581d0b2ee.webp",
+      "sha256": "deb68100b52ec7b8a6b5247abd326bc07680bc30218cef8ea6270b681fa1d12f",
+      "sourceSha256": "ee3581d0b2ee63d709c1b5f8a0ce9f3ef00e3278f7f7b5710c1a936e330ca02b",
+      "bytes": 334566
+    },
+    {
+      "id": "place-f3ddaa05df9cc9e81c2db736",
+      "name": "校长室",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-f3ddaa05df9cc9e81c2db736-f09cd47e68c3.webp",
+      "sha256": "eacd9b374cc73803c55f6ec4e19c24b5bd57bd5b8b601100d6d2d10cd253b3f1",
+      "sourceSha256": "f09cd47e68c325ea63ff33a9e82c5e10b2d96c1d584873caa577bee7da86dd46",
+      "bytes": 265400
+    },
+    {
+      "id": "place-273fb82e98dfee03669e8a30",
+      "name": "男厕所",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-273fb82e98dfee03669e8a30-00f0912fa5c9.webp",
+      "sha256": "01e5183335b53df3baec10d6be9018d1b94581c6b8f41bdf1212cdf1ba5282cd",
+      "sourceSha256": "00f0912fa5c9b0c2003adc3e04ee0f7b2cd25c892ca018cfa284efa4e20eecf4",
+      "bytes": 209906
+    },
+    {
+      "id": "place-06d2821153ac334b8d595d97",
+      "name": "女厕所",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-06d2821153ac334b8d595d97-6c3c25f2c557.webp",
+      "sha256": "0707a011926a9412427bdd73a04bc4e499af5292248c5dabf2f14c0559bfddad",
+      "sourceSha256": "6c3c25f2c557aebb71b8298a7a1b4d09b3d077aef5fa4446877224257cfb2564",
+      "bytes": 152464
+    },
+    {
+      "id": "place-0e46dddca6f00d76e476c0fe",
+      "name": "二年级教室",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-0e46dddca6f00d76e476c0fe-78d62e6c9761.webp",
+      "sha256": "63f22a8cc7a79db28d441cea6a554b5a617dd9dd74de3de9cd728c01c75fa5da",
+      "sourceSha256": "78d62e6c976125f9fcf7a808a170ed81f60b6d6c86676fb46a59868c7fee5fdc",
+      "bytes": 284328
+    },
+    {
+      "id": "place-c2f0e94f53c5b94dbaa99e10",
+      "name": "三年级教室",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-c2f0e94f53c5b94dbaa99e10-2bc79075e3f2.webp",
+      "sha256": "dd0fd92e9d7a532616d350c95426a95e8d430d33517490d8483a06fa52ed6dee",
+      "sourceSha256": "2bc79075e3f2c9da82cf1ba4ac2144fed37e318d873382ec17b7de81825bdfb4",
+      "bytes": 189780
+    },
+    {
+      "id": "place-694fc9e17ce9531ee4f6a5af",
+      "name": "自己的卧室",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-694fc9e17ce9531ee4f6a5af-d10951019fb9.webp",
+      "sha256": "7f6df2d84e5d074a585219b91b02af72313a7886104fc1b007ed6d49e80e7ec0",
+      "sourceSha256": "d10951019fb937215d842a46a98734a6486d2de2c0deaae3919c18e0c928a9a3",
+      "bytes": 315306
+    },
+    {
+      "id": "place-b1e397db3d93cf4f51c6805c",
+      "name": "旧校舍入口",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-b1e397db3d93cf4f51c6805c-fa59d7932544.webp",
+      "sha256": "43959636d91d070d8c38216b51129e2c28e2bdb9db5697107ab2e1d1c2b3397b",
+      "sourceSha256": "fa59d7932544ff1370127a34078466a60f732c26a7d1aee2e6080baa34e7b8f0",
+      "bytes": 325054
+    },
+    {
+      "id": "place-routine-080994ac94c9e1db0096",
+      "name": "阿宅的家",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-080994ac94c9e1db0096-b1086f07fdbd.webp",
+      "sha256": "c0bc79e773a2d42e0e502753d2999ce72fd1df67ed329a7a0574f08f873a59c2",
+      "sourceSha256": "b1086f07fdbd61de80d1840f1ae839b58ea1407b8cf135d3fb01fdf72d222996",
+      "bytes": 397458
+    },
+    {
+      "id": "place-routine-9813e1d73587480c57a7",
+      "name": "暗子的家",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-9813e1d73587480c57a7-3d8fdd51c732.webp",
+      "sha256": "e84d934da9bb1b7d30848d74b0632f1d4919d2c07c611f844fe37711c24f34a8",
+      "sourceSha256": "3d8fdd51c7327d29002313ac11697e4040e525960bce5a9591013e747565b7d6",
+      "bytes": 347940
+    },
+    {
+      "id": "place-routine-8bdd8effb788e3aa18d1",
+      "name": "真白的临时住处",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-8bdd8effb788e3aa18d1-f149ba6e6fec.webp",
+      "sha256": "96e77b69fc43bcc04a1eade5328c037b3d5b55cfc1b98871e82c02feb12de20b",
+      "sourceSha256": "f149ba6e6fece62139dd576b68075c92ff3bbf6139bfd26f0c4562d17491643e",
+      "bytes": 290962
+    },
+    {
+      "id": "place-routine-c5bc8d9e2e63fbcce966",
+      "name": "樱的家",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-c5bc8d9e2e63fbcce966-fa7245f82c93.webp",
+      "sha256": "1b08577cfc17ca71780be3ed288dcc502d8a17e3eda8faed52b43bc1236e7c39",
+      "sourceSha256": "fa7245f82c9353155bfeb06de50c2ff8a4b9901025305090fba01960f791345f",
+      "bytes": 298346
+    },
+    {
+      "id": "place-routine-dc2080117e47f711d5e9",
+      "name": "纱良的家",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-dc2080117e47f711d5e9-8060a1dfbcff.webp",
+      "sha256": "6b45eeb5794c01665c31c85abdacc8cdb05a410d7c5b4fc3dff1e1cb4a19139f",
+      "sourceSha256": "8060a1dfbcff9e33c3b45ceca3ac498e7d4cd5cb0669e46bc529b59db41832f7",
+      "bytes": 275014
+    },
+    {
+      "id": "place-routine-cd928e9e0330828b0872",
+      "name": "中村樱的公司",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-cd928e9e0330828b0872-77a2e6d17976.webp",
+      "sha256": "0bd033a5d10fc1999400971128fad7cdb0933ae65080474a5bc6eb955fb05a87",
+      "sourceSha256": "77a2e6d179761c415291960ed43ff7be3f1841c4e8353d83f0270e9ad07a1a49",
+      "bytes": 337512
+    },
+    {
+      "id": "place-routine-15aadd0ce23a6ab055c3",
+      "name": "总裁办公室",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-15aadd0ce23a6ab055c3-7ac0f907d916.webp",
+      "sha256": "7b262e22dcb8c16a2e8af7eb684fac2b1339c847a5ecb84df81c58e857e3eb8d",
+      "sourceSha256": "7ac0f907d916e2899d0f45035e1cdf4f8547f0181fa3ffed5380ebeda747978d",
+      "bytes": 439696
+    },
+    {
+      "id": "place-routine-dee29474f75f1c7f8d20",
+      "name": "手术区",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-dee29474f75f1c7f8d20-5d19ad5720db.webp",
+      "sha256": "5b97904c898561c71ac316aae4a488ed5768a4e2254fd8b9627c77e0e2b893bf",
+      "sourceSha256": "5d19ad5720dbcccad0948dddd7c052f8f42c1efa41b15156b07157b921aa7450",
+      "bytes": 328284
+    },
+    {
+      "id": "place-routine-83f5f282706398efd7ca",
+      "name": "护士站",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-83f5f282706398efd7ca-6d99d004aeec.webp",
+      "sha256": "9146286ecb894d7056201946c0e8a7cf8e682f040a108919923de06378d4727f",
+      "sourceSha256": "6d99d004aeec9861f33c6f53af81d7c1504abbe072c9ae72132d7c06107c74b3",
+      "bytes": 198382
+    },
+    {
+      "id": "place-routine-5ae58c394241ece391bc",
+      "name": "职员休息室",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-5ae58c394241ece391bc-bd9e593369f8.webp",
+      "sha256": "4539fd49572add4e7ca8b9d86ce7f1bb7c6d3b5e1c6915e3d645a79e3e6fe8cd",
+      "sourceSha256": "bd9e593369f80e12a42c3fc5cfe390cf61d9f5c15d41481e8ee216a081fc1ff4",
+      "bytes": 236850
+    },
+    {
+      "id": "place-routine-1860ed7de0af47ee414c",
+      "name": "对策室办公室",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-1860ed7de0af47ee414c-b7efdd87ea26.webp",
+      "sha256": "2b2d695b9e8ae4a37c68f9ed68c03db23403b35f7add9aff145408cd35d5c31b",
+      "sourceSha256": "b7efdd87ea26b817544557575bf9caa2e4fafe64a746886f1289a22106578bb8",
+      "bytes": 293904
+    },
+    {
+      "id": "place-routine-b88d0883df136bde9857",
+      "name": "美术活动室",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-b88d0883df136bde9857-d09cfd21adb3.webp",
+      "sha256": "892cba713b8af8682ae0fc72b596477ba8e29e71cceff80f2672c7fb61df0226",
+      "sourceSha256": "d09cfd21adb3931dd4669039e4b796afebe9f6a80f58b34f1c814e5ac98680b9",
+      "bytes": 359376
+    },
+    {
+      "id": "place-routine-24446f49616f7f04457d",
+      "name": "社团活动室",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-24446f49616f7f04457d-f7f1bbe12471.webp",
+      "sha256": "828b3cb276c43f5e2bc5eade895192ce6fb51a570a304724a3a4cd331d729add",
+      "sourceSha256": "f7f1bbe1247198ce5fc9e46173b59e613bdd278b65ee7d70110097a05d25eab8",
+      "bytes": 311912
+    },
+    {
+      "id": "place-routine-0f9b1c0d9f5dcb5c543c",
+      "name": "学生会活动室",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-0f9b1c0d9f5dcb5c543c-ca196297d5b5.webp",
+      "sha256": "4f56ab786a32f296afb86aab49580689feea8da16096b67c74b4c822b1a5dcc5",
+      "sourceSha256": "ca196297d5b54a2341e869855856721d9ff24fcada1943c333ab5c3360511503",
+      "bytes": 329514
+    },
+    {
+      "id": "place-routine-23eeb69c681dfdb8eacc",
+      "name": "学园日常园艺区",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-23eeb69c681dfdb8eacc-124b03c17b4e.webp",
+      "sha256": "e4bf214a1de9c7bf382049359b2d68ed68f43372c8fb938bfc3dac16516d5771",
+      "sourceSha256": "124b03c17b4ec12a179d56367b2c8238a1d18aaa79bf2a1457226d50186641a8",
+      "bytes": 731526
+    },
+    {
+      "id": "place-routine-489b28f66006869bead7",
+      "name": "美容与护理店",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-489b28f66006869bead7-01154f6afa8f.webp",
+      "sha256": "851b430e546a6cfc6fba314165160024e45ce9dd64c457a920d41e5fa639fb70",
+      "sourceSha256": "01154f6afa8f369619b37ab7dd6f2fd093d5974f54591b7cef828399d071e6cc",
+      "bytes": 334482
+    },
+    {
+      "id": "place-routine-28424bc0794b19fedc8f",
+      "name": "IT公司办公区",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-28424bc0794b19fedc8f-0bd55599d505.webp",
+      "sha256": "3eb92cf4851f6c03b87a249499235d4d415f4d1b1cdc8ee9e0d8db498ad438c8",
+      "sourceSha256": "0bd55599d505fcb307336bab137c57811793d7318fde0d118a8be0c4b505b3df",
+      "bytes": 417952
+    },
+    {
+      "id": "place-routine-da0daaba4b156961c049",
+      "name": "服装与摄影工作室",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-da0daaba4b156961c049-bb265ae2e858.webp",
+      "sha256": "dd181cdbc765d742aa35fa54bcfa31db3999215c0a22690854788bee6afd8ceb",
+      "sourceSha256": "bb265ae2e858c0e3fb9311ba6b48eebeae56d49f0d10b1280ed92ae4efbf1185",
+      "bytes": 311176
+    },
+    {
+      "id": "place-routine-55bb12211b643f5c84ff",
+      "name": "夏沐的服装工作室",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-55bb12211b643f5c84ff-2b41934f3266.webp",
+      "sha256": "18eb17f44cd32b2f87fda67fb8701562ac0947868a0081119aba4dfbddf951c9",
+      "sourceSha256": "2b41934f3266877071b08ff66e6f9f0fef4abb5c6a9752b72ace96742491d231",
+      "bytes": 432906
+    },
+    {
+      "id": "place-routine-773d7a362a18a77362e5",
+      "name": "桐生刹那的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-773d7a362a18a77362e5-f010f73c9c05.webp",
+      "sha256": "db16950e7eed45058acedafc22e5765a79d1ccb53ff307816970af80fd1868da",
+      "sourceSha256": "f010f73c9c05c946ca046967342d44a6cf10fe128a50c8627222eda71abcdd99",
+      "bytes": 248908
+    },
+    {
+      "id": "place-routine-dc4707a259a8a39e3d30",
+      "name": "白石响的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-dc4707a259a8a39e3d30-a2ee96110630.webp",
+      "sha256": "779577c9ada593aab94d5925ff028d1a543b4a81039f633dde61c1c96d9f391b",
+      "sourceSha256": "a2ee96110630ec3b1fe38bdc57bec10b10c00bbab8cc1e34c456a059cedb43f0",
+      "bytes": 349760
+    },
+    {
+      "id": "place-routine-ff625cb6ecf54cef8178",
+      "name": "阿玛奈特的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-ff625cb6ecf54cef8178-5b916c8a99f3.webp",
+      "sha256": "5c64dd953ce4661ccd035ee08ec1265dbdc8158dea421544660e5b83d24fc89c",
+      "sourceSha256": "5b916c8a99f32a7e4acf8c3c60890ab14d445d29cfe681a0d46e904b90850190",
+      "bytes": 443930
+    },
+    {
+      "id": "place-routine-c64da1009c1dc1e17c4f",
+      "name": "白鸟结衣的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-c64da1009c1dc1e17c4f-7cf3c9016ce2.webp",
+      "sha256": "aaa4c07c6900af52793948aa077884d4cb02371b919869f718b539c103b8d1e2",
+      "sourceSha256": "7cf3c9016ce2c977337e3c6f801dac666b87a75253cb6dacc721450adac64bb3",
+      "bytes": 489810
+    },
+    {
+      "id": "place-routine-ea466bb025b415f3a48c",
+      "name": "北田雪路的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-ea466bb025b415f3a48c-19bdb03bf77e.webp",
+      "sha256": "3b578268945bd85770acd4b5a2ef3d41b07b89f20f3b42936092513792601121",
+      "sourceSha256": "19bdb03bf77e6539e45382991d2430d4a27d9775bcedc083d4a7a135d98c6274",
+      "bytes": 487314
+    },
+    {
+      "id": "place-routine-c610816785fbc0016129",
+      "name": "德川喜广的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-c610816785fbc0016129-8559e317ff5c.webp",
+      "sha256": "bb6984ae9598d167a869ed0005ce2feba7cff5caaaefd890108f31c73885d776",
+      "sourceSha256": "8559e317ff5cd06cf3adc6d3699d52877b30ee4ddfc92e9ae7a8b83f55188665",
+      "bytes": 439606
+    },
+    {
+      "id": "place-routine-51414ee867cfc1357686",
+      "name": "凤条瑠衣的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-51414ee867cfc1357686-93571c61710d.webp",
+      "sha256": "f109fa3e48c006200a77e1d126783962beaa8580fecac94de3bc78bb5e285289",
+      "sourceSha256": "93571c61710d42b7b01c8c79a2bb58e35c7ec202aa2e2cac451f65f63a4f43cf",
+      "bytes": 381314
+    },
+    {
+      "id": "place-routine-e8d2783f4f4cccb1e8d2",
+      "name": "花开院椿的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-e8d2783f4f4cccb1e8d2-ce425fee6226.webp",
+      "sha256": "e3e97657ed5f2d1ac5284b0cf5bae341a0f3d220d2417617c10ed21148a89779",
+      "sourceSha256": "ce425fee62260c3e231a57a0c3e406fe2e9bf7069dfad5f36c9bed5109da36d5",
+      "bytes": 684184
+    },
+    {
+      "id": "place-routine-b73544e8d7cf21ae670c",
+      "name": "花崎诗织的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-b73544e8d7cf21ae670c-d86f4b172da8.webp",
+      "sha256": "c0a82c9fdc893daf14a59e136cd9e98dfa652644c53e73f40e730b33a497ba3d",
+      "sourceSha256": "d86f4b172da870faf0499f21e1da864a8a258ee564237ca633ee2b2db6c305e8",
+      "bytes": 449784
+    },
+    {
+      "id": "place-routine-18681b83a7495098ca11",
+      "name": "九条凛音的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-18681b83a7495098ca11-66a1289ee4db.webp",
+      "sha256": "2a1ebfffe85790a11952990655699c31a75e4c855d8b529df26bc1d50fdffa22",
+      "sourceSha256": "66a1289ee4dbcbeecb97fcd8d49185900985b8d443df2d2fcfcac30855499e4b",
+      "bytes": 381586
+    },
+    {
+      "id": "place-routine-ba1490c26f6d6e9489b9",
+      "name": "九条樱的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-ba1490c26f6d6e9489b9-53610455bd6a.webp",
+      "sha256": "71ea60f41ec7e78df9d112a6f527586ee6a20c565e43a75074882f9bb0e2c85a",
+      "sourceSha256": "53610455bd6af4664c562461fa8237d7d23a847bd10ff8cee2247b748e302cb2",
+      "bytes": 397702
+    },
+    {
+      "id": "place-routine-2685efcc20be81e6d1dc",
+      "name": "凯瑟琳的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-2685efcc20be81e6d1dc-9b65c855b5c3.webp",
+      "sha256": "073315c0bc17d3aa63d964a27de951b7882e76a2eacb93d80e218b69ce5f2801",
+      "sourceSha256": "9b65c855b5c37eee09231e66ea0944ff8f749d96389323ff7ef95be6c184d5a0",
+      "bytes": 471446
+    },
+    {
+      "id": "place-routine-d2b8e3fbfced9baf0dc4",
+      "name": "奈幽的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-d2b8e3fbfced9baf0dc4-6e87d0fc8846.webp",
+      "sha256": "c31849a95da1df02486c661a4fa723c8903cdb399db86455ffbfb8c73ecc6f5e",
+      "sourceSha256": "6e87d0fc8846b3c62e92bf2f63476740dd1f4cbdbfa8f04eea1f694077c6554c",
+      "bytes": 308478
+    },
+    {
+      "id": "place-routine-5eca975b965d587a5916",
+      "name": "尼子纯的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-5eca975b965d587a5916-5aee24c29bf5.webp",
+      "sha256": "c15c184547fd3bedc018d5fab884dda69fc273cb80a20f014768f605c1edf6fa",
+      "sourceSha256": "5aee24c29bf555ebbc5272c92bb1bc07c16f3003fad1e6a2419cdd68bded22a4",
+      "bytes": 343654
+    },
+    {
+      "id": "place-routine-0b153bf34f58a1402b7e",
+      "name": "浅仓步美的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-0b153bf34f58a1402b7e-59dc7670a27f.webp",
+      "sha256": "f53ffe492fe8ebc0f9bb30e4dd8ec24e1d533cf4e8a53d5ad8901abbea5525dd",
+      "sourceSha256": "59dc7670a27f1d6789907ce2e118fed94922f2ace331ce1faba73b2d9d24c668",
+      "bytes": 370040
+    },
+    {
+      "id": "place-routine-472948bd288d3eaaec4d",
+      "name": "萩生田梨果的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-472948bd288d3eaaec4d-06e92f3a2708.webp",
+      "sha256": "a0c4e0e5558dd2b18e8faa76526d1bba7fd3de28cb07147ca34fab1934b9a9e1",
+      "sourceSha256": "06e92f3a27084e7ff51b14bdd412f44601a58c1ceb3a132586024f575f1b9c04",
+      "bytes": 399830
+    },
+    {
+      "id": "place-routine-12df84b8ed28614493f3",
+      "name": "神谷凛的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-12df84b8ed28614493f3-9330968fe94c.webp",
+      "sha256": "69b624b5b1583efee57c968ef636910a1dc7120e63fcac90b0797852540d1f6e",
+      "sourceSha256": "9330968fe94cf8c1f042ba8326616619a129d5a271563b9073dedbe9432a0fef",
+      "bytes": 402874
+    },
+    {
+      "id": "place-routine-d1f949d94a8d3e18632e",
+      "name": "神乐坂艾米莉亚的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-d1f949d94a8d3e18632e-586c0738cfe8.webp",
+      "sha256": "03541f34ff27ed6a38c7e424a08978b7448c9feb5b146a0660e25d8ddc88eef9",
+      "sourceSha256": "586c0738cfe8f3b4d90f5e7569873d37910d18b0de5229717d70bbf131d4d9df",
+      "bytes": 310670
+    },
+    {
+      "id": "place-routine-bd05026020471146bc83",
+      "name": "藤乃静香的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-bd05026020471146bc83-ea82876ee800.webp",
+      "sha256": "04a20b46a28ff76db21561d9c4bcec2c269aa22fa8c85e8e9c50fc2fc5aa3b2b",
+      "sourceSha256": "ea82876ee80021bec1d9a70a4148911ae5d07f17fb215c7ba9da80e0d943266e",
+      "bytes": 477804
+    },
+    {
+      "id": "place-routine-3765202827e894e143b1",
+      "name": "缇娅的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-3765202827e894e143b1-7ceb1083874b.webp",
+      "sha256": "ecb716005079b49bfdd4469a0c7854deb076c32f7ab86d8f28dedd891fdb0489",
+      "sourceSha256": "7ceb1083874b9d13b1beaf0694c7aee0b8cde452462bb909e00668650a5db778",
+      "bytes": 315270
+    },
+    {
+      "id": "place-routine-853a7c62dccd5476c13f",
+      "name": "小鸟游柚子的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-853a7c62dccd5476c13f-58e3c2cdff16.webp",
+      "sha256": "82b31a5f58eefe793dde4534d0f4966e0b3ce1ddc3d20822702fb027ed640c0d",
+      "sourceSha256": "58e3c2cdff164241649ed3a23acc07d227914d5bde200d3a521dd207c450b542",
+      "bytes": 356796
+    },
+    {
+      "id": "place-routine-955ff713526f8ec22dc2",
+      "name": "星野海的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-955ff713526f8ec22dc2-8d7229953185.webp",
+      "sha256": "13b306c6795cc058fa3bf2e6721f4b5eb32d2b5b3bfd1c4f59a0c25da7a3838b",
+      "sourceSha256": "8d72299531853bf8338c41d2b4c7eb361457d80b624407b7272d21da902c3f1b",
+      "bytes": 450266
+    },
+    {
+      "id": "place-routine-31eec12df8cda2bd3b9a",
+      "name": "一之濑萤的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-31eec12df8cda2bd3b9a-55172b4cd6d4.webp",
+      "sha256": "9c367f027f312809fbb11a0874839be8c263136d4cee6c28715a49f68b345167",
+      "sourceSha256": "55172b4cd6d40942f953ae11c51b38800d2037995b1ac1cd0aaf53e095b626ca",
+      "bytes": 277440
+    },
+    {
+      "id": "place-routine-95359848f487370e5af7",
+      "name": "源薰子的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-95359848f487370e5af7-1219b5a71560.webp",
+      "sha256": "b5b0767be373aac47f24ee577419e2848d46d2f3e5d301f5086451d9d87b58b8",
+      "sourceSha256": "1219b5a71560cd028a370d75940963ab280c24038e7c4a278a821529c43baa47",
+      "bytes": 417014
+    },
+    {
+      "id": "place-routine-24e0d4e887015ba962f7",
+      "name": "古河诗织的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-24e0d4e887015ba962f7-66e2be2e99dc.webp",
+      "sha256": "40f923234bede45d4468cbefe5306e70e669ffb85297051825f5af123557e4b4",
+      "sourceSha256": "66e2be2e99dc7d69379c448f6145dcaba61a9f432e37f8190c2a0707dd08e171",
+      "bytes": 279934
+    },
+    {
+      "id": "place-routine-c5f2c8599f7659d1ffaa",
+      "name": "林语薇的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-c5f2c8599f7659d1ffaa-910a82257ec8.webp",
+      "sha256": "b6ec87c59bf97fc6d12dbde5cfe144dc0d93eef41d30c48d3e8e9502a2b256b8",
+      "sourceSha256": "910a82257ec82f5ab98593c2a0a016abbd0bacc253591ff5c56aeb728cce06b8",
+      "bytes": 405258
+    },
+    {
+      "id": "place-routine-f2f20e71b210b91c77b5",
+      "name": "浅野绘里的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-f2f20e71b210b91c77b5-d715c96a40f3.webp",
+      "sha256": "5b79044a6ad2df24f695b86bb0e4e371d617d9445c34f07684df2bceec959ccf",
+      "sourceSha256": "d715c96a40f3660dffde6fd53654464366732793829d24fb35501f8b78f8f085",
+      "bytes": 445004
+    },
+    {
+      "id": "place-routine-9b3e502de10d8663863f",
+      "name": "神宫寺凛的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-9b3e502de10d8663863f-3bdda11ce175.webp",
+      "sha256": "d8b93b08674efa81731c79a06434d37e6f501f2155cfe5fab73cb23d404e5957",
+      "sourceSha256": "3bdda11ce17542b3720d627eb1b9d2368ef9717555693133c78df9d0d561c73c",
+      "bytes": 412996
+    },
+    {
+      "id": "place-routine-0a9e6c360464e0ffbb26",
+      "name": "苏清寒的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-0a9e6c360464e0ffbb26-b9458562c3fb.webp",
+      "sha256": "4305e26e4ee75c14bfb84640d05e47aaaadd888c2720a7915d9a8d6ee088d0b8",
+      "sourceSha256": "b9458562c3fb15dfc0f5c8cb4861777b18a147042d76cc522882e8fe89e7015c",
+      "bytes": 357540
+    },
+    {
+      "id": "place-routine-4c8b8cbb74a18200dd64",
+      "name": "天海真的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-4c8b8cbb74a18200dd64-3c5e8c6adbd6.webp",
+      "sha256": "46cc016b6f517f96a7b6a94a52433650a82afd0e09c9a536c0c63fd046d04f99",
+      "sourceSha256": "3c5e8c6adbd65ca25a58a17dee6f78a4774965726b000b98ba513a92b416c413",
+      "bytes": 424196
+    },
+    {
+      "id": "place-routine-21ffb1fa5bf0cc36617a",
+      "name": "天泽爱音的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-21ffb1fa5bf0cc36617a-424e5c415fa4.webp",
+      "sha256": "23a54087b753eddb2530fbabba696ac60769fcdb607237b871dff904587321f4",
+      "sourceSha256": "424e5c415fa42490ead21b589d19d30bff17d01213ea8e413b6a6ec5fd498f27",
+      "bytes": 321526
+    },
+    {
+      "id": "place-routine-3218a3c6bdf94f814fd6",
+      "name": "夏家共同住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-3218a3c6bdf94f814fd6-b7cd3cedb4ff.webp",
+      "sha256": "a727d733d47cff54ed7886ea33037e5e0aa4a33a1f92744d5e4ea29826204f2b",
+      "sourceSha256": "b7cd3cedb4ff537fcf8abc0acddc59707d6ae039fb60f5a8fdecf6746179ac07",
+      "bytes": 394952
+    },
+    {
+      "id": "place-routine-227eb472789bc10e74b7",
+      "name": "星野千夏的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-227eb472789bc10e74b7-b3cd03918af0.webp",
+      "sha256": "50f012e29f83dcaa933649ddc9992b8c69e8a43a3166df89e1070db173df3ac9",
+      "sourceSha256": "b3cd03918af087ab78569eaf14ae6bb8056b194c1b70d57cb92a1236ddf691a0",
+      "bytes": 377378
+    },
+    {
+      "id": "place-routine-c750bd4bc047844671ef",
+      "name": "百花的暂住处",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-c750bd4bc047844671ef-40ad1948d842.webp",
+      "sha256": "529ff1b78be4e380dd2e000d24cebf65eb9b258ede043b61b762698ed8256d29",
+      "sourceSha256": "40ad1948d842e01190fecebb33a094455c01855ae0cfd79f9999324e6b1a0a75",
+      "bytes": 334122
+    },
+    {
+      "id": "place-routine-252868b454fa23f604da",
+      "name": "弥留子的居处",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-252868b454fa23f604da-198279ea16e4.webp",
+      "sha256": "b68f6eed509cd8b4cfb84e3e609df2bdb98d910b0644f5a7e0bc53f5f91207e0",
+      "sourceSha256": "198279ea16e42692b21555b5b5ae371f69c205837a1fb610e3f0463c79cd7eb2",
+      "bytes": 313622
+    },
+    {
+      "id": "place-routine-b8514c67773055a1ab7d",
+      "name": "林安的住宅",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-b8514c67773055a1ab7d-7856d78e3624.webp",
+      "sha256": "f457d118ab3ca9f2aba2bda5f7b4fae2052c8cd2ac1a4f547719bf43c94b9e01",
+      "sourceSha256": "7856d78e3624ccf75bde11b427d92d9eeea23b47af03e3fe446a82a24ab852b8",
+      "bytes": 368526
+    },
+    {
+      "id": "place-routine-12c40c4fca5ea36a3613",
+      "name": "技术人员合租公寓",
+      "path": "urban-encounter-assets/locations/redesign-20261028/place-routine-12c40c4fca5ea36a3613-cbb7f252deaa.webp",
+      "sha256": "f18b05bd2d7270d8c402682c913b68ba647045b636a9192064fcd5c2c015bcbe",
+      "sourceSha256": "cbb7f252deaa272bf00bc9bd9ffca84f69145b63cd6c878d2cf0b25ebe123547",
+      "bytes": 327938
+    },
+    {
+      "id": "v43-villa-bedroom-sister-elder",
+      "name": "姐姐的卧室",
+      "path": "urban-encounter-assets/locations/redesign-20261028/v43-villa-bedroom-sister-elder-1e8b814d53cc.webp",
+      "sha256": "1e557f6193142df5803862667fc2dab80a2a82bf0a3ddc8028ed7d1b618e4fb4",
+      "sourceSha256": "1e8b814d53ccd178e9827139b159f70720ae9aece2468f808db83e7b1827bfca",
+      "bytes": 320440
+    },
+    {
+      "id": "v43-villa-bedroom-sister-younger",
+      "name": "妹妹的卧室",
+      "path": "urban-encounter-assets/locations/redesign-20261028/v43-villa-bedroom-sister-younger-b2dea06a1157.webp",
+      "sha256": "963b74d19e3a36fee1fb31837a03dbb0bebce57250095e2d51c12203c111764d",
+      "sourceSha256": "b2dea06a11575ddb2cdabd718ae67f28a575263044b13bde23b3cbcf73d7dd3c",
+      "bytes": 430338
+    },
+    {
+      "id": "v43-villa-bedroom-mother",
+      "name": "妈妈的卧室",
+      "path": "urban-encounter-assets/locations/redesign-20261028/v43-villa-bedroom-mother-ef83b8853f2f.webp",
+      "sha256": "920deaf8d09392cd7b882aea707eed77fb5f537523b70c650caa11997cb4cc35",
+      "sourceSha256": "ef83b8853f2fda11ab1e07235a7098c21a54ec8c2313a8599f4a36887e122738",
+      "bytes": 351004
+    },
+    {
+      "id": "v43-villa-bedroom-guest",
+      "name": "别墅客房",
+      "path": "urban-encounter-assets/locations/redesign-20261028/v43-villa-bedroom-guest-137b92b892e6.webp",
+      "sha256": "c023334dfdc52c55b012e49fff0e1843eceda821eed770535f23327a859ea2da",
+      "sourceSha256": "137b92b892e6ea283315314ffbeb475154330c791e195b260f89343e88eba18e",
+      "bytes": 293606
+    },
+    {
+      "id": "v43-villa-study",
+      "name": "别墅书房",
+      "path": "urban-encounter-assets/locations/redesign-20261028/v43-villa-study-21e9185ddd52.webp",
+      "sha256": "86675ed4bf86aa4bf4c86180ef810ee9b2d1f08849595e476cfadc15bac1e1d1",
+      "sourceSha256": "21e9185ddd52e899a37f0398a9142e0123d9098c6373852fcb07811588305c66",
+      "bytes": 363310
+    }
+  ]
+}
