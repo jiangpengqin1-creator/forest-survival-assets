@@ -11678,7 +11678,10 @@ function hypnosisV5VisibleCommands(draft=readHypnosisLiteDraft()){
  return ST_HYPNOSIS_FEATURES.filter(f=>ids.has(f.id));
 }
 function hypnosisV5TargetAvatar(name){
- for(const view of [window.parent,window.top])try{const url=view?.__HYPNOOS_V43_DESKTOP_UI__?.artForKind?.(name,'chibi');if(url)return '<img src="'+escapeAttr(url)+'" alt="" loading="lazy" decoding="async">';}catch{}return '';
+ for(const view of [window.parent,window.top])try{const url=view?.__HYPNOOS_V43_DESKTOP_UI__?.artForKind?.(name,'chibi');if(url)return '<img src="'+escapeAttr(view?.__HYPNOOS_V43_RESOURCES__?.resolve?.(url)||url)+'" data-hypnosis-target-image="'+escapeAttr(url)+'" alt="" decoding="async">';}catch{}return '';
+}
+function hypnosisV5LoadTargetAvatars(page){
+ for(const view of [window.parent,window.top])try{const assets=view?.__HYPNOOS_V43_RESOURCES__;if(!assets?.load)continue;for(const image of page.querySelectorAll('[data-hypnosis-target-image]'))void assets.load(image.dataset.hypnosisTargetImage).then(url=>{if(image.isConnected&&image.getAttribute('src')!==url)image.src=url;}).catch(()=>{});return;}catch{}
 }
 function hypnosisV5TargetsHtml(page,draft){
  const names=hypnosisCurrentRoleNames(),selected=(Array.isArray(draft.v5Targets)?draft.v5Targets:[]).filter(name=>names.includes(name)),open=page.dataset.hypnosisV5TargetsOpen==='true',preview=selected.length?selected.slice(0,2).join('、')+(selected.length>2?' +'+(selected.length-2):''):'未选择';
@@ -11785,6 +11788,7 @@ function renderHypnosisCommands(page,system){
     const body = active === "supply" ? renderHypnosisSupply(page, system) : active === "vip" ? renderHypnosisVip(page, system) : renderHypnosisCommands(page, system);
     page.classList.remove('st-hypnosis-lite-app');page.classList.add('st-hypnosis-v5');if(!page.ownerDocument.getElementById('st-hypnosis-v5-style')){const style=page.ownerDocument.createElement('style');style.id='st-hypnosis-v5-style';style.textContent=ST_V5_HYPNOSIS_CSS;page.ownerDocument.head.append(style);}page.innerHTML='<nav class="ip-v5-topnav"><button type="button" data-lite-action="back" aria-label="返回手机主屏幕">‹ 返回</button>'+['commands','supply','vip'].map((id,i)=>'<button type="button" class="'+(active===id?'active':'')+'" data-hypnosis-tab="'+id+'">'+['指令','补给','VIP'][i]+'</button>').join('')+'</nav>'+(notice?'<p class="st-hypnosis-notice">'+escapeHtml(notice)+'</p>':'')+'<main class="ip-v5-body">'+(active==='commands'?body:'<div class="st-lite-body">'+body+'</div>')+'</main>'+renderHypnosisCustomItemDialog(page)+renderHypnosisPregnancyDialog(page);
     const rerenderPreservingScroll = () => rerenderLitePagePreservingBodyScroll(page, () => renderHypnosisLitePage(page));
+    hypnosisV5LoadTargetAvatars(page);
     page.querySelectorAll('[data-hypnosis-v5-target-close]').forEach(button=>button.addEventListener('click',()=>{page.dataset.hypnosisV5TargetsOpen='false';rerenderPreservingScroll();}));
     page.querySelector('[data-hypnosis-v5-target-backdrop]')?.addEventListener('click',event=>{if(event.target===event.currentTarget){page.dataset.hypnosisV5TargetsOpen='false';rerenderPreservingScroll();}});
     page.querySelector('[data-hypnosis-v5-target-toggle]')?.addEventListener('click',()=>{page.dataset.hypnosisV5TargetsOpen=page.dataset.hypnosisV5TargetsOpen==='true'?'false':'true';rerenderPreservingScroll();});
