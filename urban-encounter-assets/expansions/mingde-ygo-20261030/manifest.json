@@ -2,7 +2,7 @@
   "schema": "standalone-image-expansion-v1",
   "name": "明德大学角色与场景素材",
   "date": "2026-10-30",
-  "cardIntegration": "deferred-until-affinity-chains-ready",
+  "cardIntegration": "images-linked-in-v43-slot-picker-notebook-and-profiles",
   "tool": "built-in image_gen",
   "characters": [
     {
