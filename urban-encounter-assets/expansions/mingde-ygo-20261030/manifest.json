@@ -1,0 +1,1113 @@
+{
+  "schema": "standalone-image-expansion-v1",
+  "name": "明德大学角色与场景素材",
+  "date": "2026-10-30",
+  "cardIntegration": "deferred-until-affinity-chains-ready",
+  "tool": "built-in image_gen",
+  "characters": [
+    {
+      "id": "ygo-01",
+      "name": "真崎杏子",
+      "series": "DM",
+      "images": {
+        "base": {
+          "file": "characters/ygo-01/base.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-01/base.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 452456,
+          "sha256": "2e7d66d5d795e0219a6cf403ea17e697443a44db45a919938087227d13834162"
+        },
+        "daily": {
+          "file": "characters/ygo-01/daily.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-01/daily.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 428810,
+          "sha256": "fedc2b6b053ec30ba3719de8b841c4c8b299e52534b32a62db2ec1b68d4632a9"
+        },
+        "home": {
+          "file": "characters/ygo-01/home.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-01/home.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 380876,
+          "sha256": "ed81bbee44169f02fded0c1acaafe2a09b138cf734d33b98769aebe95b349766"
+        },
+        "weekend": {
+          "file": "characters/ygo-01/weekend.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-01/weekend.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 437754,
+          "sha256": "a9ff740e344404102aad4eb0d1be5a7a8563b2c2ff3426dc205f7ea65966a167"
+        },
+        "portrait": {
+          "file": "characters/ygo-01/portrait.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-01/portrait.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 1252192,
+          "sha256": "707d85616b2e4c10eaeb4da5a173a52c60aae3e1ab9064e68d9775aeab7a21a8"
+        },
+        "chibi": {
+          "file": "characters/ygo-01/chibi.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-01/chibi.webp",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 839364,
+          "sha256": "487711194640e9606f5ec5f939d43489d7b4e4d5d846bbe5e0dbd01cfe0eb74e"
+        },
+        "base-trance": {
+          "file": "characters/ygo-01/base-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-01/base-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 448630,
+          "sha256": "47fadaa292dee2dd1aaea1a660c7e80456a0745a74ce8ed7f31b1436270840d9"
+        },
+        "daily-trance": {
+          "file": "characters/ygo-01/daily-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-01/daily-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 424730,
+          "sha256": "dc7e36cfb0f74cf4310d755afe125cdca09285cdb5ba8c34104cef7db7ef11ee"
+        },
+        "home-trance": {
+          "file": "characters/ygo-01/home-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-01/home-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 382258,
+          "sha256": "837989b532dcda658689706864639c7955129707979e89e298ee8511f945df04"
+        },
+        "weekend-trance": {
+          "file": "characters/ygo-01/weekend-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-01/weekend-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 434406,
+          "sha256": "8c2d0a16a80fbb84eb9a0822a634b3605a4c8f0126b2dee5bf58a15ea7847d4a"
+        }
+      }
+    },
+    {
+      "id": "ygo-02",
+      "name": "天上院明日香",
+      "series": "GX",
+      "images": {
+        "base": {
+          "file": "characters/ygo-02/base.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-02/base.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 491042,
+          "sha256": "0063f2b6ef1f29d054c4210860f460cf3ed7f5e00c1c91fb7e9ab023da66b685"
+        },
+        "daily": {
+          "file": "characters/ygo-02/daily.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-02/daily.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 574168,
+          "sha256": "fee2c3acd12d80fef1b6295b24aeece11770db77abd967051788dc68fc0aee76"
+        },
+        "home": {
+          "file": "characters/ygo-02/home.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-02/home.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 484936,
+          "sha256": "ab7fb0c099387ff309d73c4e829f6db361f58d4e37ddb662eb0df550bd65ff17"
+        },
+        "weekend": {
+          "file": "characters/ygo-02/weekend.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-02/weekend.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 493642,
+          "sha256": "86cda134c3d7460d54f524dabb2e80cdb284d8c448d030f9e69b7969494ef26b"
+        },
+        "portrait": {
+          "file": "characters/ygo-02/portrait.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-02/portrait.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 1208710,
+          "sha256": "8b0c7f223f1e19f6d5e43dba26de3f00409f35e8c60d9c4ec6f72b13ee77cd3b"
+        },
+        "chibi": {
+          "file": "characters/ygo-02/chibi.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-02/chibi.webp",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 965208,
+          "sha256": "2979f2dc70fbd2aace6a59501c64144d4802475891e582e01c672e77c9773d7b"
+        },
+        "base-trance": {
+          "file": "characters/ygo-02/base-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-02/base-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 484062,
+          "sha256": "dc1259d369dc1e7bbf96d6a31d2cb26ff1027f702f4284918d49076aff7e8590"
+        },
+        "daily-trance": {
+          "file": "characters/ygo-02/daily-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-02/daily-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 562698,
+          "sha256": "8da1766da51dfd0cfc959fe2a8d81b2c852d4a4d50ebdad16c70c4e7655183ff"
+        },
+        "home-trance": {
+          "file": "characters/ygo-02/home-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-02/home-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 476066,
+          "sha256": "5693f66b0e04f30eacb066d333f876e5e6b21ac8874da957622ca2dd42d45628"
+        },
+        "weekend-trance": {
+          "file": "characters/ygo-02/weekend-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-02/weekend-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 476662,
+          "sha256": "cadb23e6a1d5ae84516f77303244d57a594dfc2cfa0bbc8e667c23b73ecd9e45"
+        }
+      }
+    },
+    {
+      "id": "ygo-03",
+      "name": "十六夜秋",
+      "series": "5Ds",
+      "images": {
+        "base": {
+          "file": "characters/ygo-03/base.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-03/base.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 547644,
+          "sha256": "4b0874e7e309ea1b03c3c8457e0fc309e65857aeeedd64ac686c4961f6903069"
+        },
+        "daily": {
+          "file": "characters/ygo-03/daily.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-03/daily.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 568550,
+          "sha256": "e026d738021f26a7b3d9ced22ba0c090366473c04e5b2e4ad70a3f3338b857f4"
+        },
+        "home": {
+          "file": "characters/ygo-03/home.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-03/home.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 568132,
+          "sha256": "f90b3448a4bc4f31dc6d0b447229951a9206b752976dd785ebe03e264301cbdd"
+        },
+        "weekend": {
+          "file": "characters/ygo-03/weekend.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-03/weekend.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 605272,
+          "sha256": "dca288fb5f11ab7b2501a778a45d60ec3111d7b0a26c29c081a83f43c9f7d6e9"
+        },
+        "portrait": {
+          "file": "characters/ygo-03/portrait.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-03/portrait.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 1475924,
+          "sha256": "452bc2400c94011946b1a586fa3dba09f9417709be6140f2a88fb29b8c2bff2f"
+        },
+        "chibi": {
+          "file": "characters/ygo-03/chibi.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-03/chibi.webp",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 829146,
+          "sha256": "0ea20ca34edb1d385aa08f5f1469925bf5372bbd47337f1963696a3ec31b9bfd"
+        },
+        "base-trance": {
+          "file": "characters/ygo-03/base-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-03/base-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 516504,
+          "sha256": "a3da46d5e5f8b3f9f83b7c66bfa780726cdfa3b82297b27f32fe87431255ac40"
+        },
+        "daily-trance": {
+          "file": "characters/ygo-03/daily-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-03/daily-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 555278,
+          "sha256": "b9896b29da16cdc3eb9b2c36a4fec303d99ad1cae30f4babca8f38b64dec727c"
+        },
+        "home-trance": {
+          "file": "characters/ygo-03/home-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-03/home-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 566466,
+          "sha256": "aa6e0d007b05772d817c49a24a7e20e7bff2f0726c242aad6b9ebdc78a4c2ed5"
+        },
+        "weekend-trance": {
+          "file": "characters/ygo-03/weekend-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-03/weekend-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 591918,
+          "sha256": "60431b28e51e408263f9ece52f0ceac9c607dc24a83ea9ffe683a74b90ed392e"
+        }
+      }
+    },
+    {
+      "id": "ygo-04",
+      "name": "观月小鸟",
+      "series": "ZEXAL",
+      "images": {
+        "base": {
+          "file": "characters/ygo-04/base.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-04/base.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 546744,
+          "sha256": "e71721e98abf5808bc4385b9eb493ebad3bf22e5afcfd209c4649fd60885228b"
+        },
+        "daily": {
+          "file": "characters/ygo-04/daily.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-04/daily.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 507678,
+          "sha256": "20e1dad374e926d642f5ba6c1c2a0975d202a5a3821d838c9a60382fdced1fd9"
+        },
+        "home": {
+          "file": "characters/ygo-04/home.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-04/home.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 488580,
+          "sha256": "6ab021219a74f315f720e71de95aa41aebf7468ef0d116b182ff2ec1798340c4"
+        },
+        "weekend": {
+          "file": "characters/ygo-04/weekend.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-04/weekend.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 462762,
+          "sha256": "bbbfeb5782ebd7ac04718df72edf1dbdc3cbb932b2868447ded64b51308c76d7"
+        },
+        "portrait": {
+          "file": "characters/ygo-04/portrait.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-04/portrait.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 1188838,
+          "sha256": "a24cf7152cdb864ff3432924bf9fc5541278706a42eca1607f34888076b0e4d7"
+        },
+        "chibi": {
+          "file": "characters/ygo-04/chibi.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-04/chibi.webp",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 952048,
+          "sha256": "7f637283944d430c5df19ec834bf11633b8501cafb31672c92bd5cf91efe06bf"
+        },
+        "base-trance": {
+          "file": "characters/ygo-04/base-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-04/base-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 542306,
+          "sha256": "724331a045dfdff173387b2c2b1759f77a575465834393952f2e5d3873f13145"
+        },
+        "daily-trance": {
+          "file": "characters/ygo-04/daily-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-04/daily-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 516760,
+          "sha256": "c058d3fd04cab9cc7117193e8af36dd01d7b755a50dfc04a5204fadc24497e2c"
+        },
+        "home-trance": {
+          "file": "characters/ygo-04/home-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-04/home-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 488968,
+          "sha256": "dc67cf21c9a31981c628a59e657997f04990e8e88fa3579ab64e1929cb8d30c5"
+        },
+        "weekend-trance": {
+          "file": "characters/ygo-04/weekend-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-04/weekend-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 458030,
+          "sha256": "3710142c2b4a8e4cd5e3081b291a179c7c5e593aa7d3ce41941aed9ac37a7dc4"
+        }
+      }
+    },
+    {
+      "id": "ygo-05",
+      "name": "神月安娜",
+      "series": "ZEXAL",
+      "images": {
+        "base": {
+          "file": "characters/ygo-05/base.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-05/base.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 607172,
+          "sha256": "c0eba2e11a290f4d088ecd0f10a352879f1738f941c365f11d9a2811bf8b4f75"
+        },
+        "daily": {
+          "file": "characters/ygo-05/daily.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-05/daily.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 690152,
+          "sha256": "e44933a433acf01804c024bd3bbd31bc05ddb3f0d8e82f7dad15ef57ce48901a"
+        },
+        "home": {
+          "file": "characters/ygo-05/home.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-05/home.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 518540,
+          "sha256": "0467f69ff66e223eccc280bd165bc8ce1338060fad48a307d0ff6c9f77abf40a"
+        },
+        "weekend": {
+          "file": "characters/ygo-05/weekend.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-05/weekend.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 639728,
+          "sha256": "5c4c0063ca0bfd71d0790447ba07f88241976df4110c942e0342c2e29129db76"
+        },
+        "portrait": {
+          "file": "characters/ygo-05/portrait.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-05/portrait.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 1474652,
+          "sha256": "7a1f2e1c0d224a746cd8abd7606798a05c64dc52994ae3a18886b224139eb491"
+        },
+        "chibi": {
+          "file": "characters/ygo-05/chibi.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-05/chibi.webp",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 1040860,
+          "sha256": "7f9fcb13d4618c98e8441215e3bf08e75bbbe16fa309c3cf79615497df644a95"
+        },
+        "base-trance": {
+          "file": "characters/ygo-05/base-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-05/base-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 620512,
+          "sha256": "b3286f8f87415c73161b861f5750daed7e484354e42893030b1fbe76a1c148b4"
+        },
+        "daily-trance": {
+          "file": "characters/ygo-05/daily-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-05/daily-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 678968,
+          "sha256": "0dea6c09fa9bdae2e344c2ed7b012983f88743d367ab09d8fb925ea862b8a992"
+        },
+        "home-trance": {
+          "file": "characters/ygo-05/home-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-05/home-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 515132,
+          "sha256": "b19c4afcd34be8fda5fdc464827cf3c1867f4f0aa9d1462a4d4e9a492e7b682d"
+        },
+        "weekend-trance": {
+          "file": "characters/ygo-05/weekend-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-05/weekend-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 636558,
+          "sha256": "dd8b193c1f07789aaff7ffd8727c5068d8e628598368ccf39319a681abedac5f"
+        }
+      }
+    },
+    {
+      "id": "ygo-06",
+      "name": "神代璃绪",
+      "series": "ZEXAL",
+      "images": {
+        "base": {
+          "file": "characters/ygo-06/base.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-06/base.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 565340,
+          "sha256": "998943933dfec109fdea66bd6812533e078ce8861bec4f7d493e977ae8198388"
+        },
+        "daily": {
+          "file": "characters/ygo-06/daily.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-06/daily.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 585152,
+          "sha256": "28a06417f57c557588c3eba3f54b912aaeee1a3992c3cbf5ce3eed09320f8eb0"
+        },
+        "home": {
+          "file": "characters/ygo-06/home.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-06/home.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 620440,
+          "sha256": "11e9c24ad34c710bc5dcb33f93ff232dee6589d2e5124d22b2530559cd06fee7"
+        },
+        "weekend": {
+          "file": "characters/ygo-06/weekend.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-06/weekend.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 668618,
+          "sha256": "e6c65922eb01fe9b81dab4d0f89610c81a90b303f54a16e88bd2d51eb9d6c673"
+        },
+        "portrait": {
+          "file": "characters/ygo-06/portrait.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-06/portrait.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 1231030,
+          "sha256": "bcd2bb7080967db33d20bd2cefbe9ca97b7b1f8da01076bb3cff77cff0c55c1e"
+        },
+        "chibi": {
+          "file": "characters/ygo-06/chibi.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-06/chibi.webp",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 919514,
+          "sha256": "860e28e20042a8ce85359f89c50bf0687c22c82e78892be315e4f1f1b77afaf7"
+        },
+        "base-trance": {
+          "file": "characters/ygo-06/base-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-06/base-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 522262,
+          "sha256": "2b0b8e54ebd6a5512e9aefa82fa838b11e644aa05b8355ce6d5aa22acf7875ff"
+        },
+        "daily-trance": {
+          "file": "characters/ygo-06/daily-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-06/daily-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 590362,
+          "sha256": "b12a5a03ec3fab7f925d88d1fa66d12d6249588dc7d09dfa56d24e82d5cf8bb6"
+        },
+        "home-trance": {
+          "file": "characters/ygo-06/home-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-06/home-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 558172,
+          "sha256": "9aca152266fb493a130be2534a522647a3ff6d09b8f8d08b2c7d6fd1f499f234"
+        },
+        "weekend-trance": {
+          "file": "characters/ygo-06/weekend-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-06/weekend-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 644088,
+          "sha256": "77db52aac0a4900827206fa0b640654558017733dbd6c20a1804fb4db705a4a4"
+        }
+      }
+    },
+    {
+      "id": "ygo-07",
+      "name": "柊柚子",
+      "series": "ARC-V",
+      "images": {
+        "base": {
+          "file": "characters/ygo-07/base.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-07/base.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 588158,
+          "sha256": "a16a7afd6f6f47455f31df1895c2f6f14f186820f0a9637090cc5138741d8aa4"
+        },
+        "daily": {
+          "file": "characters/ygo-07/daily.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-07/daily.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 517882,
+          "sha256": "e15cf147fe0e0cafb3b89b9c4b2fb77bfb43d89dce5eca9e4b3c4e33aab0d68d"
+        },
+        "home": {
+          "file": "characters/ygo-07/home.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-07/home.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 443766,
+          "sha256": "ad8af7c10b14ee0d5dfb73a9d39f9646f3d7039173760529332c25249e91cf13"
+        },
+        "weekend": {
+          "file": "characters/ygo-07/weekend.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-07/weekend.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 489450,
+          "sha256": "e24b20bf8296a623779389e79d1e7dc9d7826ba5155b73180a777ba9b90a379b"
+        },
+        "portrait": {
+          "file": "characters/ygo-07/portrait.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-07/portrait.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 1423038,
+          "sha256": "9aab4555181f61eb9e96e0892ae6ca5c15550602ef5ed2874cd2606fee5126b4"
+        },
+        "chibi": {
+          "file": "characters/ygo-07/chibi.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-07/chibi.webp",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 889318,
+          "sha256": "1dddb818e2a822ca64ae9fe0314629077ab62469833959ed3e891e71913b0dac"
+        },
+        "base-trance": {
+          "file": "characters/ygo-07/base-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-07/base-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 585634,
+          "sha256": "3f89dcd9ed042a0e6cdc84c5b17c703c127c1fde6222d2fceefab9a4a920dba0"
+        },
+        "daily-trance": {
+          "file": "characters/ygo-07/daily-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-07/daily-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 522830,
+          "sha256": "b5ac53a17698ffbd8418c2e50b7fc7beb21fa149f07d40be994c31957adb5638"
+        },
+        "home-trance": {
+          "file": "characters/ygo-07/home-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-07/home-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 436994,
+          "sha256": "68607bd22d91bbb2b0c28b2c5e9fa371590da057194c12950d814851968fa521"
+        },
+        "weekend-trance": {
+          "file": "characters/ygo-07/weekend-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-07/weekend-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 474048,
+          "sha256": "ca1a10847bab9342b995fc2371783818c0f223fab2a7140fd1d64038feeee1c2"
+        }
+      }
+    },
+    {
+      "id": "ygo-08",
+      "name": "塞瑞娜",
+      "series": "ARC-V",
+      "images": {
+        "base": {
+          "file": "characters/ygo-08/base.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-08/base.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 512428,
+          "sha256": "6fa4c3db25628ea26ca98cb46bbeda6b8ab5f2a1890ce07acafdc95733da060f"
+        },
+        "daily": {
+          "file": "characters/ygo-08/daily.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-08/daily.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 615862,
+          "sha256": "e033f983a6552ed8c14bbcb97666fdf11eac70edca724f151d1267a7f6f4f1d5"
+        },
+        "home": {
+          "file": "characters/ygo-08/home.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-08/home.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 550564,
+          "sha256": "2c22df7157f66eaae2c10dae7e54a364fb3dc8b152ceaea395c8298825090cbb"
+        },
+        "weekend": {
+          "file": "characters/ygo-08/weekend.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-08/weekend.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 545322,
+          "sha256": "e68b5de9526fbb44937044f67c8c4f502ad8e045686c5914a422b7627c5d5446"
+        },
+        "portrait": {
+          "file": "characters/ygo-08/portrait.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-08/portrait.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 1356860,
+          "sha256": "3cb1b1a577bc78343a8e9e65a0d7cc96d6665ffadc76c7c1e2aab8518d4f7877"
+        },
+        "chibi": {
+          "file": "characters/ygo-08/chibi.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-08/chibi.webp",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 933728,
+          "sha256": "1c78884192e2cec94a01996664b1b62c28a965651e40f7018fae2b213b21e9a3"
+        },
+        "base-trance": {
+          "file": "characters/ygo-08/base-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-08/base-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 492200,
+          "sha256": "af9d45b6074762e387403e1c43c7d2519f4229ce67e42cc60143a75709743622"
+        },
+        "daily-trance": {
+          "file": "characters/ygo-08/daily-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-08/daily-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 608930,
+          "sha256": "66319ffe73202fe60c6556d4db928433e679b39ae9fa88d9ad2c9dd2ba2127b1"
+        },
+        "home-trance": {
+          "file": "characters/ygo-08/home-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-08/home-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 542120,
+          "sha256": "96b99e6f30d5479ea7597d8d36803c0cbe59e610d397fa6e43b654b68624a93c"
+        },
+        "weekend-trance": {
+          "file": "characters/ygo-08/weekend-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-08/weekend-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 544750,
+          "sha256": "9a6a4825f1734980a8f607ec50ad60866e58c4ae4a0ced42c3742ff637459c9d"
+        }
+      }
+    },
+    {
+      "id": "ygo-09",
+      "name": "凛",
+      "series": "ARC-V",
+      "images": {
+        "base": {
+          "file": "characters/ygo-09/base.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-09/base.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 454718,
+          "sha256": "e2806b4b6fa31c0336a22555dda93e9b471b19fd6858342cf029ab414949925e"
+        },
+        "daily": {
+          "file": "characters/ygo-09/daily.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-09/daily.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 441932,
+          "sha256": "fec7c637c2934f4a908537fb35844538ec72dfd113a9c76c7bc43793f96bd0f6"
+        },
+        "home": {
+          "file": "characters/ygo-09/home.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-09/home.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 405126,
+          "sha256": "6641407920e2dd50c181c3bc4a852a4312feee361d845fe1945fbe249f4e221b"
+        },
+        "weekend": {
+          "file": "characters/ygo-09/weekend.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-09/weekend.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 460324,
+          "sha256": "ec0e445e4ab769d0672e36c50146044cbbf48acce57ec2df15f26f92f52d3aad"
+        },
+        "portrait": {
+          "file": "characters/ygo-09/portrait.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-09/portrait.webp",
+          "width": 1086,
+          "height": 1448,
+          "bytes": 1384976,
+          "sha256": "28469429f8193d4fccd5780c319f7ab270b5a09990091bcaa9f8536b37fa012d"
+        },
+        "chibi": {
+          "file": "characters/ygo-09/chibi.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-09/chibi.webp",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 875116,
+          "sha256": "695324d8d3548545e3efe499bc37485df3307be7e6e867618fff8d5d90552a1a"
+        },
+        "base-trance": {
+          "file": "characters/ygo-09/base-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-09/base-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 455808,
+          "sha256": "65897be4e0e55897676bf4e3a31e0c6a741c81fac13327c419e74d379edf7540"
+        },
+        "daily-trance": {
+          "file": "characters/ygo-09/daily-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-09/daily-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 434616,
+          "sha256": "58d0031e60e56dfcdc281adcb7bf232d5508dbb83ad8bfb63dcb5956d0148e5b"
+        },
+        "home-trance": {
+          "file": "characters/ygo-09/home-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-09/home-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 410758,
+          "sha256": "9a7f74c5bd4c17f6d1c03d683fff59fe10cff0aae3a168534bed69e7fd7defbb"
+        },
+        "weekend-trance": {
+          "file": "characters/ygo-09/weekend-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-09/weekend-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 456110,
+          "sha256": "26fe811102172f9f7431f042b177f9a6fb3618825f6a5da4fdcbb3fc31dcb3eb"
+        }
+      }
+    },
+    {
+      "id": "ygo-10",
+      "name": "黑咲琉璃",
+      "series": "ARC-V",
+      "images": {
+        "base": {
+          "file": "characters/ygo-10/base.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-10/base.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 597584,
+          "sha256": "0a134653c820958d47701eba9a6c98d6a05352ef070f8a7bfe047b2ebf793ebe"
+        },
+        "daily": {
+          "file": "characters/ygo-10/daily.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-10/daily.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 680734,
+          "sha256": "d9dc047f0ffee2828df8b2360db177e50227952498dbb21231e8949079f49cfc"
+        },
+        "home": {
+          "file": "characters/ygo-10/home.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-10/home.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 605850,
+          "sha256": "7da311c419ce6a3da083dd2f970731d9c9a574f7bea097001d5506a76648dcc7"
+        },
+        "weekend": {
+          "file": "characters/ygo-10/weekend.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-10/weekend.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 618366,
+          "sha256": "9c42dc5169ba099341b88c89a7eb5fe92852968e961abb94b3c173d731c3fae7"
+        },
+        "portrait": {
+          "file": "characters/ygo-10/portrait.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-10/portrait.webp",
+          "width": 1086,
+          "height": 1448,
+          "bytes": 1439244,
+          "sha256": "ff2039fcfc8e83b602293fada3bc92cfa6d78bc18c34fe738363cf5e9cc01045"
+        },
+        "chibi": {
+          "file": "characters/ygo-10/chibi.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-10/chibi.webp",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 883824,
+          "sha256": "0ff23e18a56f271f6f889b110e90b764d0e70061e64184894a6f6e8b41434179"
+        },
+        "base-trance": {
+          "file": "characters/ygo-10/base-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-10/base-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 560112,
+          "sha256": "717f079338d6a5cadc1509f800a806b81bdcac2f13060cd726ca26cbf27c5121"
+        },
+        "daily-trance": {
+          "file": "characters/ygo-10/daily-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-10/daily-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 646776,
+          "sha256": "6502ea0f77538e35a85b9a33ecae1286bde4b1c189d237ef693f743814b2aba6"
+        },
+        "home-trance": {
+          "file": "characters/ygo-10/home-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-10/home-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 575720,
+          "sha256": "f9caa5eb5c0cb74ebec402b09d587c10ec69dff445ce77fb5646decf75cc57cb"
+        },
+        "weekend-trance": {
+          "file": "characters/ygo-10/weekend-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-10/weekend-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 589338,
+          "sha256": "d163117d355ce256fe41bded24f734f964c7d965ee176e90c155bfc7f9bdb9e3"
+        }
+      }
+    },
+    {
+      "id": "ygo-11",
+      "name": "财前葵",
+      "series": "VRAINS",
+      "images": {
+        "base": {
+          "file": "characters/ygo-11/base.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-11/base.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 423504,
+          "sha256": "958017af10298c39be1503ac7eb878b37de7f9a86332466916eb07d58deae044"
+        },
+        "daily": {
+          "file": "characters/ygo-11/daily.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-11/daily.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 416560,
+          "sha256": "d770e2eba89cf7cf6735022c391eeb219e8be53f5a059d60a4af3eabb2c32a68"
+        },
+        "home": {
+          "file": "characters/ygo-11/home.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-11/home.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 442496,
+          "sha256": "34f99bb01edf4e0c54038b4c67f1060c3063e1b4c4bc2451a1609ee9099d93f3"
+        },
+        "weekend": {
+          "file": "characters/ygo-11/weekend.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-11/weekend.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 528950,
+          "sha256": "df732820f5ba680a0d5c947b9231c8813618b7d599a9a1b2e273684e4763afde"
+        },
+        "portrait": {
+          "file": "characters/ygo-11/portrait.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-11/portrait.webp",
+          "width": 1086,
+          "height": 1448,
+          "bytes": 1286136,
+          "sha256": "ea9351fbd3c5e7be9c1d8cf5407125de3184cebbd510a689e4a25be469e93420"
+        },
+        "chibi": {
+          "file": "characters/ygo-11/chibi.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-11/chibi.webp",
+          "width": 1254,
+          "height": 1254,
+          "bytes": 875324,
+          "sha256": "b3ae996465639c24662ef197a508cd1b502e039753720683c2235ba45a72a1e6"
+        },
+        "base-trance": {
+          "file": "characters/ygo-11/base-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-11/base-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 433044,
+          "sha256": "5d17ab8d70751f0d1efe909e184c3f997c3d7f5cd22f28d5169d0366691cbf6d"
+        },
+        "daily-trance": {
+          "file": "characters/ygo-11/daily-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-11/daily-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 398464,
+          "sha256": "1829af6cedc1692a3c97e863c446c60c86de123b1eec1ad05bfc4344b9bc38f3"
+        },
+        "home-trance": {
+          "file": "characters/ygo-11/home-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-11/home-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 443520,
+          "sha256": "648e206a052f5b0a73096b3e702e836f8ad22a183aef9b56e4e195ecbafb2143"
+        },
+        "weekend-trance": {
+          "file": "characters/ygo-11/weekend-trance.webp",
+          "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/characters/ygo-11/weekend-trance.webp",
+          "width": 1024,
+          "height": 1536,
+          "bytes": 527400,
+          "sha256": "80473375ea3386e7966476e813f0a1c7b3fa9f1bb3c19601e551cf108338f7c2"
+        }
+      }
+    }
+  ],
+  "locations": [
+    {
+      "id": "mingde-leafy-walk",
+      "name": "林荫步道",
+      "image": {
+        "file": "locations/mingde-leafy-walk.webp",
+        "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/locations/mingde-leafy-walk.webp",
+        "width": 1672,
+        "height": 941,
+        "bytes": 2549060,
+        "sha256": "93ef171626e729a94253b2835dda6884478065b50dba6e3a046a2d181e78bb2d"
+      }
+    },
+    {
+      "id": "mingde-teaching-corridor",
+      "name": "教学楼走廊",
+      "image": {
+        "file": "locations/mingde-teaching-corridor.webp",
+        "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/locations/mingde-teaching-corridor.webp",
+        "width": 1672,
+        "height": 941,
+        "bytes": 1823512,
+        "sha256": "c99601f7e4a903616f52328ab82f4fb7c31db904d1d9d5a0b0dcbbc7e131f968"
+      }
+    },
+    {
+      "id": "mingde-lecture-hall",
+      "name": "阶梯教室",
+      "image": {
+        "file": "locations/mingde-lecture-hall.webp",
+        "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/locations/mingde-lecture-hall.webp",
+        "width": 1672,
+        "height": 941,
+        "bytes": 1662908,
+        "sha256": "34d01cd11bc5b93d1dca1cf4588c54f0f7fbf63dfb599c38849753cda6bee159"
+      }
+    },
+    {
+      "id": "mingde-library-reading",
+      "name": "图书馆阅览区",
+      "image": {
+        "file": "locations/mingde-library-reading.webp",
+        "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/locations/mingde-library-reading.webp",
+        "width": 1672,
+        "height": 941,
+        "bytes": 1849312,
+        "sha256": "bdf678827c74e0bc9a91ec8441f0390f3fc95bcf0a463240c05a45e3fdc0f2c7"
+      }
+    },
+    {
+      "id": "mingde-quiet-study",
+      "name": "静音自习室",
+      "image": {
+        "file": "locations/mingde-quiet-study.webp",
+        "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/locations/mingde-quiet-study.webp",
+        "width": 1672,
+        "height": 941,
+        "bytes": 1661016,
+        "sha256": "337175ee6486245310073998203f0b084341332a6f47b320a1c12f39250fe0e5"
+      }
+    },
+    {
+      "id": "mingde-student-canteen",
+      "name": "学生食堂",
+      "image": {
+        "file": "locations/mingde-student-canteen.webp",
+        "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/locations/mingde-student-canteen.webp",
+        "width": 1672,
+        "height": 941,
+        "bytes": 1758178,
+        "sha256": "ae2463d456bee6431d3a709be74912d2d0867c2ac997933c6c5003c7e789c0a7"
+      }
+    },
+    {
+      "id": "mingde-campus-cafe",
+      "name": "校园咖啡馆",
+      "image": {
+        "file": "locations/mingde-campus-cafe.webp",
+        "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/locations/mingde-campus-cafe.webp",
+        "width": 1672,
+        "height": 941,
+        "bytes": 2004012,
+        "sha256": "a23651d745b9a236045c17aaf2b7d322aeacc57edfdbbafb1a090d0e69050c3e"
+      }
+    },
+    {
+      "id": "mingde-residence-lounge",
+      "name": "学生公寓公共休息区",
+      "image": {
+        "file": "locations/mingde-residence-lounge.webp",
+        "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/locations/mingde-residence-lounge.webp",
+        "width": 1672,
+        "height": 941,
+        "bytes": 1787188,
+        "sha256": "f74bfdb4964d08997b2772699250daf18a594a51734604d7b88251d4c5af31a5"
+      }
+    },
+    {
+      "id": "mingde-twin-dorm",
+      "name": "双人宿舍",
+      "image": {
+        "file": "locations/mingde-twin-dorm.webp",
+        "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/locations/mingde-twin-dorm.webp",
+        "width": 1672,
+        "height": 941,
+        "bytes": 1653180,
+        "sha256": "978e0cdb283d42a11a5413b5f6ccaac82fd01b0e2e73aa3a71b346a57592c646"
+      }
+    },
+    {
+      "id": "mingde-club-room",
+      "name": "社团活动室",
+      "image": {
+        "file": "locations/mingde-club-room.webp",
+        "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/locations/mingde-club-room.webp",
+        "width": 1672,
+        "height": 941,
+        "bytes": 1830724,
+        "sha256": "ca10ae4fecfb917815ad24df7d63719b15f1b8092344d3da1526387324049fa3"
+      }
+    },
+    {
+      "id": "mingde-athletics-field",
+      "name": "田径运动场",
+      "image": {
+        "file": "locations/mingde-athletics-field.webp",
+        "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/locations/mingde-athletics-field.webp",
+        "width": 1672,
+        "height": 940,
+        "bytes": 2328910,
+        "sha256": "c527db618bd0773ba40283df6a808809ea92de0aa962d167c650f5c4d34f1f31"
+      }
+    },
+    {
+      "id": "mingde-indoor-sports",
+      "name": "室内体育馆",
+      "image": {
+        "file": "locations/mingde-indoor-sports.webp",
+        "url": "https://raw.githubusercontent.com/jiangpengqin1-creator/forest-survival-assets/main/urban-encounter-assets/expansions/mingde-ygo-20261030/locations/mingde-indoor-sports.webp",
+        "width": 1672,
+        "height": 941,
+        "bytes": 1909306,
+        "sha256": "b635ae7ce2f73c24d407a78bf95b4883951cf6b302be71bc094e1c99a67cde68"
+      }
+    }
+  ],
+  "assetCount": 122
+}
